@@ -1,0 +1,27 @@
+/* Grid */
+
+.grid {
+  display: flex;
+  flex-direction: row;
+  padding: 0;
+  overflow: hidden;
+}
+
+.grid div {
+  padding: 1rem;
+}
+
+/* Hero Image */
+.hero-img {
+  display: none;
+  /* background-color: #374956; */
+  background-image: url("https://images.unsplash.com/photo-1485470733090-0aae1788d5af?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8bWFjb3N8ZW58MHx8MHx8&auto=format&fit=crop&w=800&q=60");
+  background-position: center;
+  background-size: cover;
+}
+
+@media (min-width: 992px) {
+  .grid > div:nth-of-type(2) {
+    display: block;
+  }
+}
