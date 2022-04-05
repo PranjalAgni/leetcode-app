@@ -1,6 +1,5 @@
 import { ReactElement } from 'react';
-import { useEffect } from 'react';
-import { useState } from 'react';
+import { useEffect, useState } from 'react';
 
 interface Props {
   className: string;

@@ -1,4 +1,3 @@
-import { ReactElement } from 'react';
 import Clock from '../Clock/Clock';
 import './Navbar.module.css';
 
