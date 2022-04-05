@@ -1,3 +1,4 @@
+import Image from 'next/image';
 import styles from './Form.module.css';
 
 export default function Form() {
