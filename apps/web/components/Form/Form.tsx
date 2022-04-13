@@ -5,7 +5,7 @@ export default function Form() {
   return (
     <main className="container">
       <article className={styles.grid}>
-        <div>
+        <div className={styles.form}>
           <hgroup>
             <h1>Sign in</h1>
             <h2>A minimalist layout for Login pages</h2>
@@ -41,7 +41,15 @@ export default function Form() {
             </button>
           </form>
         </div>
-        <div className={styles['hero-img']}></div>
+        <div className={styles.hero}>
+          <Image
+            alt="Unsplash logo"
+            src="https://images.unsplash.com/photo-1649791069748-9e61375148d6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwzNnx8fGVufDB8fHx8&auto=format&fit=crop&w=800&q=60"
+            width={800}
+            height={500}
+            layout="responsive"
+          />
+        </div>
       </article>
     </main>
   );
