@@ -3,9 +3,22 @@ const TagsService = require('../services/TagsService');
 
 const problemRouter = (fastify, _opts, done) => {
   fastify.get('/', async (_request, reply) => {
-    const problemsSolvedList =
-      await ProblemsSolvedService.getAllProblemsSolved();
-    reply.code(200).send(problemsSolvedList);
+    try {
+      const problemsSolvedList =
+        await ProblemsSolvedService.getAllProblemsSolved();
+
+      const problemsSolvedListWithLimtedProps = problemsSolvedList.map(
+        (problem) => ({
+          name: problem.problem_name,
+          url: problem.problem_url,
+          solvedAt: problem.solution_created_at,
+        })
+      );
+      reply.code(200).send(problemsSolvedListWithLimtedProps);
+    } catch (error) {
+      console.error('Error occured while fetching problems: ', error);
+      reply.code(500).send({ message: error.message });
+    }
   });
 
   fastify.get('/:tagName', async (request, reply) => {

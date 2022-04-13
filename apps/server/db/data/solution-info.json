@@ -19,6 +19,10 @@
   ],
   "Arrays": [
     {
+      "name": "3-sum-multiples.cpp",
+      "createdAt": "2022-04-06T18:13:44.380Z"
+    },
+    {
       "name": "4sum-ii.cpp",
       "createdAt": "2022-02-03T18:23:01.653Z"
     },
@@ -311,6 +315,10 @@
       "createdAt": "2021-12-16T18:28:30.429Z"
     },
     {
+      "name": "container-with-most-water.cpp",
+      "createdAt": "2022-04-05T18:10:47.621Z"
+    },
+    {
       "name": "merge-overlapping-intervals.cpp",
       "createdAt": "2021-06-04T18:28:05.721Z"
     },
@@ -601,6 +609,10 @@
     {
       "name": "find-target-index-after-sorting-array.cpp",
       "createdAt": "2021-11-28T17:23:07.213Z"
+    },
+    {
+      "name": "largest-number-after-digit-swaps-with-parity.cpp",
+      "createdAt": "2022-04-10T18:53:39.589Z"
     },
     {
       "name": "merge-k-sorted-arrays.cpp",
