@@ -9,7 +9,7 @@ function MyApp({ Component, pageProps }) {
     <QueryClientProvider client={queryClient}>
       <Hydrate state={pageProps.dehydratedState}>
         <Component {...pageProps} />
-        <footer className="container-fluid">
+        <footer className="container-fluid" style={{ position: 'fixed' }}>
           <small>
             Built with{' '}
             <a href="https://picocss.com" className="secondary">
