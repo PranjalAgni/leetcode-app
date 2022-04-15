@@ -1,971 +1,971 @@
 {
   "Adhoc": [
     {
-      "name": "max-distance-between-houses.cpp",
+      "name": "max-distance-between-houses",
       "createdAt": "2021-11-27T10:58:41.040Z"
     },
     {
-      "name": "minimum-buckets-to-trap-rainwater.cpp",
+      "name": "minimum-buckets-to-trap-rainwater",
       "createdAt": "2021-11-27T21:49:13.119Z"
     },
     {
-      "name": "subsequence-of-length-k-max-sum.cpp",
+      "name": "subsequence-of-length-k-max-sum",
       "createdAt": "2021-12-12T16:57:36.263Z"
     },
     {
-      "name": "watering-plants.cpp",
+      "name": "watering-plants",
       "createdAt": "2021-11-27T11:48:45.413Z"
     }
   ],
   "Arrays": [
     {
-      "name": "3-sum-multiples.cpp",
+      "name": "3-sum-multiples",
       "createdAt": "2022-04-06T18:13:44.380Z"
     },
     {
-      "name": "4sum-ii.cpp",
+      "name": "4sum-ii",
       "createdAt": "2022-02-03T18:23:01.653Z"
     },
     {
-      "name": "arithmetic-slices.cpp",
+      "name": "arithmetic-slices",
       "createdAt": "2022-03-03T18:24:16.851Z"
     },
     {
-      "name": "array-of-products.cpp",
+      "name": "array-of-products",
       "createdAt": "2021-06-04T18:27:20.082Z"
     },
     {
-      "name": "best-time-to-buy-sell-stocks.cpp",
+      "name": "best-time-to-buy-sell-stocks",
       "createdAt": "2022-02-01T18:10:44.348Z"
     },
     {
-      "name": "contiguous-arrays.cpp",
+      "name": "contiguous-arrays",
       "createdAt": "2022-02-04T18:29:09.886Z"
     },
     {
-      "name": "delete-and-earn.cpp",
+      "name": "delete-and-earn",
       "createdAt": "2022-03-06T18:31:00.506Z"
     },
     {
-      "name": "find-the-duplicate-number.cpp",
+      "name": "find-the-duplicate-number",
       "createdAt": "2022-03-29T17:33:00.573Z"
     },
     {
-      "name": "first-duplicate-value.cpp",
+      "name": "first-duplicate-value",
       "createdAt": "2021-06-04T18:27:41.044Z"
     },
     {
-      "name": "intersection-arrays.cpp",
+      "name": "intersection-arrays",
       "createdAt": "2022-01-14T18:24:42.863Z"
     },
     {
-      "name": "k-divisble-sublists.cpp",
+      "name": "k-divisble-sublists",
       "createdAt": "2021-07-04T18:16:11.424Z"
     },
     {
-      "name": "k-radius-subarrays-average.cpp",
+      "name": "k-radius-subarrays-average",
       "createdAt": "2021-11-28T17:48:55.141Z"
     },
     {
-      "name": "kadens-algorithm.cpp",
+      "name": "kadens-algorithm",
       "createdAt": "2021-06-22T18:24:05.241Z"
     },
     {
-      "name": "longest-peak.cpp",
+      "name": "longest-peak",
       "createdAt": "2021-06-03T18:28:23.739Z"
     },
     {
-      "name": "lru.cpp",
+      "name": "lru",
       "createdAt": "2022-01-25T19:54:08.921Z"
     },
     {
-      "name": "majority-element.cpp",
+      "name": "majority-element",
       "createdAt": "2022-02-22T18:14:43.310Z"
     },
     {
-      "name": "maximum-matrix-sum.cpp",
+      "name": "maximum-matrix-sum",
       "createdAt": "2021-09-08T17:00:19.310Z"
     },
     {
-      "name": "median-minimization.cpp",
+      "name": "median-minimization",
       "createdAt": "2021-07-03T18:22:04.320Z"
     },
     {
-      "name": "minimum-absolute-difference.cpp",
+      "name": "minimum-absolute-difference",
       "createdAt": "2021-12-20T18:21:53.984Z"
     },
     {
-      "name": "minimum-cost-to-move-chips.cpp",
+      "name": "minimum-cost-to-move-chips",
       "createdAt": "2021-12-09T18:22:42.481Z"
     },
     {
-      "name": "monotonic-array.cpp",
+      "name": "monotonic-array",
       "createdAt": "2021-06-03T18:27:44.790Z"
     },
     {
-      "name": "move-element-two-end.cpp",
+      "name": "move-element-two-end",
       "createdAt": "2021-06-03T18:27:22.655Z"
     },
     {
-      "name": "non-constructible-change.cpp",
+      "name": "non-constructible-change",
       "createdAt": "2021-05-31T18:04:37.510Z"
     },
     {
-      "name": "range-sum-query.cpp",
+      "name": "range-sum-query",
       "createdAt": "2021-11-30T20:07:29.008Z"
     },
     {
-      "name": "remove-half-list-minimum-operation.cpp",
+      "name": "remove-half-list-minimum-operation",
       "createdAt": "2021-08-12T18:20:04.723Z"
     },
     {
-      "name": "remove-min-max-from-array.cpp",
+      "name": "remove-min-max-from-array",
       "createdAt": "2021-11-28T18:41:41.129Z"
     },
     {
-      "name": "richest-customer-wealth.cpp",
+      "name": "richest-customer-wealth",
       "createdAt": "2022-01-31T18:15:04.915Z"
     },
     {
-      "name": "rotate-arrays.cpp",
+      "name": "rotate-arrays",
       "createdAt": "2022-01-30T17:13:27.346Z"
     },
     {
-      "name": "selling-products.cpp",
+      "name": "selling-products",
       "createdAt": "2021-07-13T19:35:12.776Z"
     },
     {
-      "name": "single-cycle-check.cpp",
+      "name": "single-cycle-check",
       "createdAt": "2021-06-22T18:24:41.630Z"
     },
     {
-      "name": "single-number.cpp",
+      "name": "single-number",
       "createdAt": "2022-02-15T18:27:21.822Z"
     },
     {
-      "name": "smallest-difference.cpp",
+      "name": "smallest-difference",
       "createdAt": "2021-06-03T18:27:08.236Z"
     },
     {
-      "name": "smallest-intersecting-element.cpp",
+      "name": "smallest-intersecting-element",
       "createdAt": "2021-07-04T19:18:01.683Z"
     },
     {
-      "name": "smallest-missing-positive-O(1).cpp",
+      "name": "smallest-missing-positive-O(1)",
       "createdAt": "2021-09-08T13:42:39.001Z"
     },
     {
-      "name": "sorted-square-array.cpp",
+      "name": "sorted-square-array",
       "createdAt": "2021-05-30T19:33:26.159Z"
     },
     {
-      "name": "spiral-array.cpp",
+      "name": "spiral-array",
       "createdAt": "2021-06-03T18:27:59.305Z"
     },
     {
-      "name": "three-number-sort.cpp",
+      "name": "three-number-sort",
       "createdAt": "2021-08-16T18:15:21.256Z"
     },
     {
-      "name": "three-sum.cpp",
+      "name": "three-sum",
       "createdAt": "2021-06-03T18:26:48.249Z"
     },
     {
-      "name": "two-sum.cpp",
+      "name": "two-sum",
       "createdAt": "2021-05-30T19:24:25.997Z"
     },
     {
-      "name": "validate-subsequences.cpp",
+      "name": "validate-subsequences",
       "createdAt": "2021-05-30T19:24:56.298Z"
     },
     {
-      "name": "wolf-of-wall-street.cpp",
+      "name": "wolf-of-wall-street",
       "createdAt": "2021-09-03T17:08:58.409Z"
     }
   ],
   "BinarySearch": [
     {
-      "name": "binary-search.cpp",
+      "name": "binary-search",
       "createdAt": "2021-06-02T08:12:12.354Z"
     },
     {
-      "name": "capacity-to-ship-in-D-days.cpp",
+      "name": "capacity-to-ship-in-D-days",
       "createdAt": "2021-06-18T18:14:34.935Z"
     },
     {
-      "name": "min-days-to-form-m-boquets.cpp",
+      "name": "min-days-to-form-m-boquets",
       "createdAt": "2021-06-18T18:13:47.780Z"
     },
     {
-      "name": "plates-between-candle.cpp",
+      "name": "plates-between-candle",
       "createdAt": "2021-11-04T19:48:18.360Z"
     },
     {
-      "name": "search-2d-matrix.cpp",
+      "name": "search-2d-matrix",
       "createdAt": "2022-03-30T18:03:07.271Z"
     },
     {
-      "name": "search-for-range.cpp",
+      "name": "search-for-range",
       "createdAt": "2021-09-15T18:36:13.711Z"
     },
     {
-      "name": "search-in-sorted-matrix-2.cpp",
+      "name": "search-in-sorted-matrix-2",
       "createdAt": "2021-09-02T04:59:13.554Z"
     },
     {
-      "name": "search-in-sorted-matrix.cpp",
+      "name": "search-in-sorted-matrix",
       "createdAt": "2021-09-01T17:32:34.714Z"
     },
     {
-      "name": "shifted-binary-search.cpp",
+      "name": "shifted-binary-search",
       "createdAt": "2021-09-15T17:57:48.287Z"
     },
     {
-      "name": "sqrt-calculation.cpp",
+      "name": "sqrt-calculation",
       "createdAt": "2021-09-24T19:31:13.528Z"
     }
   ],
   "DP": [
     {
-      "name": "best-team-with-no-conflict.cpp",
+      "name": "best-team-with-no-conflict",
       "createdAt": "2021-11-17T08:18:36.962Z"
     },
     {
-      "name": "house-robber.cpp",
+      "name": "house-robber",
       "createdAt": "2021-12-07T13:55:30.836Z"
     },
     {
-      "name": "levenshtein-distance.cpp",
+      "name": "levenshtein-distance",
       "createdAt": "2021-06-30T18:13:52.105Z"
     },
     {
-      "name": "longest-common-subsequence-recursive.cpp",
+      "name": "longest-common-subsequence-recursive",
       "createdAt": "2021-11-23T13:39:32.520Z"
     },
     {
-      "name": "max-sum-increasing-subsequence.cpp",
+      "name": "max-sum-increasing-subsequence",
       "createdAt": "2021-11-16T18:36:01.646Z"
     },
     {
-      "name": "staircase-traversal-1.cpp",
+      "name": "staircase-traversal-1",
       "createdAt": "2021-08-27T05:34:08.098Z"
     }
   ],
   "Graphs": [
     {
-      "name": "all-possible-paths-via-bfs.cpp",
+      "name": "all-possible-paths-via-bfs",
       "createdAt": "2021-07-02T17:58:39.660Z"
     },
     {
-      "name": "breadth-first-search.cpp",
+      "name": "breadth-first-search",
       "createdAt": "2021-06-26T18:24:23.325Z"
     },
     {
-      "name": "directed-graph-cyclic-check.cpp",
+      "name": "directed-graph-cyclic-check",
       "createdAt": "2021-06-29T14:13:11.148Z"
     },
     {
-      "name": "distinct-islands.cpp",
+      "name": "distinct-islands",
       "createdAt": "2021-09-12T13:38:50.339Z"
     },
     {
-      "name": "enclosed-island.cpp",
+      "name": "enclosed-island",
       "createdAt": "2021-07-06T18:14:13.065Z"
     },
     {
-      "name": "find-all-people-with-secret.cpp",
+      "name": "find-all-people-with-secret",
       "createdAt": "2021-11-29T08:56:39.155Z"
     },
     {
-      "name": "min-matrix-passes-optimized.cpp",
+      "name": "min-matrix-passes-optimized",
       "createdAt": "2021-07-02T16:29:22.323Z"
     },
     {
-      "name": "min-matrix-passes.cpp",
+      "name": "min-matrix-passes",
       "createdAt": "2021-07-01T18:22:59.722Z"
     },
     {
-      "name": "remove-islands.cpp",
+      "name": "remove-islands",
       "createdAt": "2021-06-29T17:45:00.344Z"
     },
     {
-      "name": "river-sizes.cpp",
+      "name": "river-sizes",
       "createdAt": "2021-06-26T18:24:40.436Z"
     },
     {
-      "name": "topological-sort.cpp",
+      "name": "topological-sort",
       "createdAt": "2021-10-09T07:54:02.128Z"
     }
   ],
   "Greedy": [
     {
-      "name": "boats-to-save-people.cpp",
+      "name": "boats-to-save-people",
       "createdAt": "2022-03-24T18:26:44.745Z"
     },
     {
-      "name": "buy-and-sell-stock-atmost-2-transactions.cpp",
+      "name": "buy-and-sell-stock-atmost-2-transactions",
       "createdAt": "2021-09-12T18:47:14.216Z"
     },
     {
-      "name": "class-photos.cpp",
+      "name": "class-photos",
       "createdAt": "2021-06-01T18:00:12.205Z"
     },
     {
-      "name": "contained-intervals.cpp",
+      "name": "contained-intervals",
       "createdAt": "2021-12-16T18:28:30.429Z"
     },
     {
-      "name": "container-with-most-water.cpp",
+      "name": "container-with-most-water",
       "createdAt": "2022-04-05T18:10:47.621Z"
     },
     {
-      "name": "merge-overlapping-intervals.cpp",
+      "name": "merge-overlapping-intervals",
       "createdAt": "2021-06-04T18:28:05.721Z"
     },
     {
-      "name": "minimum-waiting-time.cpp",
+      "name": "minimum-waiting-time",
       "createdAt": "2021-06-01T18:00:31.083Z"
     },
     {
-      "name": "tandem-bicycle.cpp",
+      "name": "tandem-bicycle",
       "createdAt": "2021-06-02T08:00:18.111Z"
     },
     {
-      "name": "tasks-assignments.cpp",
+      "name": "tasks-assignments",
       "createdAt": "2021-07-02T17:59:05.996Z"
     },
     {
-      "name": "valid-starting-city.cpp",
+      "name": "valid-starting-city",
       "createdAt": "2021-07-14T19:13:53.616Z"
     }
   ],
   "HashMaps": [
     {
-      "name": "binary-subarray-with-sum-k.cpp",
+      "name": "binary-subarray-with-sum-k",
       "createdAt": "2021-11-30T19:10:23.036Z"
     },
     {
-      "name": "find-common-characters.cpp",
+      "name": "find-common-characters",
       "createdAt": "2022-01-01T18:29:17.456Z"
     },
     {
-      "name": "find-three-digits-even-number.cpp",
+      "name": "find-three-digits-even-number",
       "createdAt": "2021-12-05T18:31:31.777Z"
     },
     {
-      "name": "k-diff-pairs.cpp",
+      "name": "k-diff-pairs",
       "createdAt": "2022-02-09T18:12:33.982Z"
     },
     {
-      "name": "k-distinct-windows.cpp",
+      "name": "k-distinct-windows",
       "createdAt": "2021-10-29T18:25:05.088Z"
     },
     {
-      "name": "largest-range.cpp",
+      "name": "largest-range",
       "createdAt": "2021-12-06T12:57:54.801Z"
     },
     {
-      "name": "minimum-character-for-words.cpp",
+      "name": "minimum-character-for-words",
       "createdAt": "2021-09-14T17:58:53.731Z"
     },
     {
-      "name": "remove-duplicates-from-sorted-array-2.cpp",
+      "name": "remove-duplicates-from-sorted-array-2",
       "createdAt": "2022-02-06T17:35:55.414Z"
     },
     {
-      "name": "subarray-sum-k.cpp",
+      "name": "subarray-sum-k",
       "createdAt": "2022-02-10T18:05:22.637Z"
     }
   ],
   "Heaps": [
     {
-      "name": "min-heap-impl-optimized.cpp",
+      "name": "min-heap-impl-optimized",
       "createdAt": "2021-07-20T19:51:09.357Z"
     },
     {
-      "name": "min-heap-implementation-1.cpp",
+      "name": "min-heap-implementation-1",
       "createdAt": "2021-07-20T15:59:01.255Z"
     }
   ],
   "LinkedList": [
     {
-      "name": "adjacent-node-swap-iterative.cpp",
+      "name": "adjacent-node-swap-iterative",
       "createdAt": "2021-11-01T17:55:18.449Z"
     },
     {
-      "name": "adjacent-node-swap-recursive.cpp",
+      "name": "adjacent-node-swap-recursive",
       "createdAt": "2021-11-01T17:50:22.662Z"
     },
     {
-      "name": "back-to-front-ll.cpp",
+      "name": "back-to-front-ll",
       "createdAt": "2021-08-25T18:11:04.813Z"
     },
     {
-      "name": "binary-tree-to-linkedlist.cpp",
+      "name": "binary-tree-to-linkedlist",
       "createdAt": "2021-08-11T18:26:27.660Z"
     },
     {
-      "name": "copy-list-with-random-pointer-1st_approach.cpp",
+      "name": "copy-list-with-random-pointer-1st_approach",
       "createdAt": "2021-05-26T17:58:45.676Z"
     },
     {
-      "name": "delete-middle-node-of-linkedlist.cpp",
+      "name": "delete-middle-node-of-linkedlist",
       "createdAt": "2021-12-05T18:46:05.972Z"
     },
     {
-      "name": "detect-a-cyle.cpp",
+      "name": "detect-a-cyle",
       "createdAt": "2021-05-14T07:30:50.193Z"
     },
     {
-      "name": "doubly-linked-list.cpp",
+      "name": "doubly-linked-list",
       "createdAt": "2021-06-12T17:41:27.185Z"
     },
     {
-      "name": "find-loop.cpp",
+      "name": "find-loop",
       "createdAt": "2021-10-30T18:07:37.004Z"
     },
     {
-      "name": "flatten-linkedlist.cpp",
+      "name": "flatten-linkedlist",
       "createdAt": "2021-05-14T15:20:07.685Z"
     },
     {
-      "name": "insertionsort-list.cpp",
+      "name": "insertionsort-list",
       "createdAt": "2021-12-15T18:23:03.403Z"
     },
     {
-      "name": "interleaved-linked-list.cpp",
+      "name": "interleaved-linked-list",
       "createdAt": "2021-08-11T18:17:11.523Z"
     },
     {
-      "name": "is-palindrome-01.cpp",
+      "name": "is-palindrome-01",
       "createdAt": "2021-05-14T12:52:54.742Z"
     },
     {
-      "name": "is-palindrome-02.cpp",
+      "name": "is-palindrome-02",
       "createdAt": "2021-05-14T12:53:25.605Z"
     },
     {
-      "name": "lru-cache.cpp",
+      "name": "lru-cache",
       "createdAt": "2021-05-22T14:27:23.507Z"
     },
     {
-      "name": "merge-in-between-linkedlist.cpp",
+      "name": "merge-in-between-linkedlist",
       "createdAt": "2021-05-25T19:35:59.332Z"
     },
     {
-      "name": "merge-k-sorted-list.cpp",
+      "name": "merge-k-sorted-list",
       "createdAt": "2022-02-05T15:53:54.607Z"
     },
     {
-      "name": "next-greater-node.cpp",
+      "name": "next-greater-node",
       "createdAt": "2021-05-25T16:06:52.596Z"
     },
     {
-      "name": "odd-even-linkedlist.cpp",
+      "name": "odd-even-linkedlist",
       "createdAt": "2021-12-07T14:41:43.822Z"
     },
     {
-      "name": "palindome-linked-list.cpp",
+      "name": "palindome-linked-list",
       "createdAt": "2021-09-27T17:38:14.747Z"
     },
     {
-      "name": "palindrome-linkedlist.cpp",
+      "name": "palindrome-linkedlist",
       "createdAt": "2021-11-15T18:28:15.559Z"
     },
     {
-      "name": "partition-list.cpp",
+      "name": "partition-list",
       "createdAt": "2021-05-25T18:08:32.924Z"
     },
     {
-      "name": "remove-duplicates-sorted-list.cpp",
+      "name": "remove-duplicates-sorted-list",
       "createdAt": "2021-05-25T17:41:59.515Z"
     },
     {
-      "name": "remove-kth-node-from-end.cpp",
+      "name": "remove-kth-node-from-end",
       "createdAt": "2021-07-16T18:47:27.735Z"
     },
     {
-      "name": "remove-node-from-end-optimized.cpp",
+      "name": "remove-node-from-end-optimized",
       "createdAt": "2021-09-23T16:24:31.834Z"
     },
     {
-      "name": "reverse-in-K-groups.cpp",
+      "name": "reverse-in-K-groups",
       "createdAt": "2021-05-14T09:05:35.114Z"
     },
     {
-      "name": "reverse-in-groups.cpp",
+      "name": "reverse-in-groups",
       "createdAt": "2021-09-10T17:30:55.400Z"
     },
     {
-      "name": "reverse-inner-linkedlist.cpp",
+      "name": "reverse-inner-linkedlist",
       "createdAt": "2021-08-25T17:42:21.139Z"
     },
     {
-      "name": "reverse-linked-list-2.cpp",
+      "name": "reverse-linked-list-2",
       "createdAt": "2021-05-25T18:26:08.765Z"
     },
     {
-      "name": "reverse-linked-list.cpp",
+      "name": "reverse-linked-list",
       "createdAt": "2021-05-14T07:16:48.606Z"
     },
     {
-      "name": "reverse-nodes-in-even-length-group.cpp",
+      "name": "reverse-nodes-in-even-length-group",
       "createdAt": "2021-12-02T13:22:23.352Z"
     },
     {
-      "name": "rotate-linked-list-1.cpp",
+      "name": "rotate-linked-list-1",
       "createdAt": "2021-05-14T15:35:55.481Z"
     },
     {
-      "name": "rotate-linked-list-2.cpp",
+      "name": "rotate-linked-list-2",
       "createdAt": "2021-05-14T15:53:23.519Z"
     },
     {
-      "name": "sort-list.cpp",
+      "name": "sort-list",
       "createdAt": "2022-02-25T18:24:52.182Z"
     },
     {
-      "name": "split-linked-list-in-parts.cpp",
+      "name": "split-linked-list-in-parts",
       "createdAt": "2021-05-25T20:36:30.926Z"
     },
     {
-      "name": "sum-of-linkedlists.cpp",
+      "name": "sum-of-linkedlists",
       "createdAt": "2021-07-26T19:28:02.146Z"
     },
     {
-      "name": "swap-node-in-pairs.cpp",
+      "name": "swap-node-in-pairs",
       "createdAt": "2022-02-16T18:23:42.657Z"
     },
     {
-      "name": "swapping-nodes-linked-list.cpp",
+      "name": "swapping-nodes-linked-list",
       "createdAt": "2021-05-25T19:06:46.495Z"
     }
   ],
   "Maths": [
     {
-      "name": "add-digits.cpp",
+      "name": "add-digits",
       "createdAt": "2022-02-08T18:04:55.984Z"
     },
     {
-      "name": "permutation.cpp",
+      "name": "permutation",
       "createdAt": "2021-07-27T21:44:20.943Z"
     },
     {
-      "name": "powerset.cpp",
+      "name": "powerset",
       "createdAt": "2021-08-04T18:20:19.435Z"
     }
   ],
   "Pointers": [
     {
-      "name": "delete-consecutive-repeating-min-cost.cpp",
+      "name": "delete-consecutive-repeating-min-cost",
       "createdAt": "2021-08-09T18:13:59.490Z"
     },
     {
-      "name": "split-string-with-same-distinct-count.cpp",
+      "name": "split-string-with-same-distinct-count",
       "createdAt": "2021-08-09T18:47:08.102Z"
     }
   ],
   "Queues": [
     {
-      "name": "implement-queue-using-stacks.cpp",
+      "name": "implement-queue-using-stacks",
       "createdAt": "2021-05-15T18:47:17.549Z"
     },
     {
-      "name": "sliding-window-maximum.cpp",
+      "name": "sliding-window-maximum",
       "createdAt": "2021-05-24T08:28:09.577Z"
     },
     {
-      "name": "time-needed-to-buy-tickets.cpp",
+      "name": "time-needed-to-buy-tickets",
       "createdAt": "2021-12-02T13:53:16.627Z"
     }
   ],
   "Recursion": [
     {
-      "name": "max-subset-sum-no-adjacent.cpp",
+      "name": "max-subset-sum-no-adjacent",
       "createdAt": "2021-06-14T18:24:00.471Z"
     },
     {
-      "name": "max-subset-sum-optimized.cpp",
+      "name": "max-subset-sum-optimized",
       "createdAt": "2021-06-15T17:59:19.709Z"
     },
     {
-      "name": "phone-number-combination.cpp",
+      "name": "phone-number-combination",
       "createdAt": "2021-08-11T19:54:28.755Z"
     },
     {
-      "name": "phone-number-mnemoics.cpp",
+      "name": "phone-number-mnemoics",
       "createdAt": "2021-08-15T15:53:44.621Z"
     }
   ],
   "Sorting": [
     {
-      "name": "bubble-sort.cpp",
+      "name": "bubble-sort",
       "createdAt": "2021-06-02T10:38:29.562Z"
     },
     {
-      "name": "continuous-median.cpp",
+      "name": "continuous-median",
       "createdAt": "2021-11-03T18:38:44.329Z"
     },
     {
-      "name": "find-target-index-after-sorting-array.cpp",
+      "name": "find-target-index-after-sorting-array",
       "createdAt": "2021-11-28T17:23:07.213Z"
     },
     {
-      "name": "largest-number-after-digit-swaps-with-parity.cpp",
+      "name": "largest-number-after-digit-swaps-with-parity",
       "createdAt": "2022-04-10T18:53:39.589Z"
     },
     {
-      "name": "merge-k-sorted-arrays.cpp",
+      "name": "merge-k-sorted-arrays",
       "createdAt": "2021-10-08T07:02:23.319Z"
     },
     {
-      "name": "merge-sort.cpp",
+      "name": "merge-sort",
       "createdAt": "2021-10-08T07:02:44.642Z"
     }
   ],
   "Stacks": [
     {
-      "name": "132-pattern.cpp",
+      "name": "132-pattern",
       "createdAt": "2021-05-29T17:47:43.841Z"
     },
     {
-      "name": "balanced-parenthesis.cpp",
+      "name": "balanced-parenthesis",
       "createdAt": "2021-08-19T17:56:21.987Z"
     },
     {
-      "name": "build-array-with-stack-operations.cpp",
+      "name": "build-array-with-stack-operations",
       "createdAt": "2021-05-28T10:11:25.454Z"
     },
     {
-      "name": "decoded-string-at-index.cpp",
+      "name": "decoded-string-at-index",
       "createdAt": "2021-05-26T17:23:51.088Z"
     },
     {
-      "name": "implement-stacks-using-2-queues-1.cpp",
+      "name": "implement-stacks-using-2-queues-1",
       "createdAt": "2021-05-15T15:55:54.696Z"
     },
     {
-      "name": "max-area-histogram.cpp",
+      "name": "max-area-histogram",
       "createdAt": "2021-05-24T16:07:54.342Z"
     },
     {
-      "name": "maximum-frequency-stack.cpp",
+      "name": "maximum-frequency-stack",
       "createdAt": "2021-09-12T08:15:38.057Z"
     },
     {
-      "name": "min-max-stack-construction.cpp",
+      "name": "min-max-stack-construction",
       "createdAt": "2021-08-16T18:36:19.298Z"
     },
     {
-      "name": "min-stack-implementation.cpp",
+      "name": "min-stack-implementation",
       "createdAt": "2021-05-20T17:48:41.490Z"
     },
     {
-      "name": "next-greater-element-1.cpp",
+      "name": "next-greater-element-1",
       "createdAt": "2021-05-15T19:22:54.220Z"
     },
     {
-      "name": "next-greater-element-2.cpp",
+      "name": "next-greater-element-2",
       "createdAt": "2021-05-15T19:54:04.024Z"
     },
     {
-      "name": "next-greater-element-circular-array.cpp",
+      "name": "next-greater-element-circular-array",
       "createdAt": "2021-08-20T13:40:37.486Z"
     },
     {
-      "name": "remove-outermost-bracket.cpp",
+      "name": "remove-outermost-bracket",
       "createdAt": "2021-05-27T07:23:03.911Z"
     },
     {
-      "name": "sort-stack.cpp",
+      "name": "sort-stack",
       "createdAt": "2021-09-11T17:26:29.022Z"
     },
     {
-      "name": "sum-of-subarray-minimum.cpp",
+      "name": "sum-of-subarray-minimum",
       "createdAt": "2021-05-26T10:45:39.143Z"
     },
     {
-      "name": "sunset-view-memory-friendly.cpp",
+      "name": "sunset-view-memory-friendly",
       "createdAt": "2021-09-12T10:19:07.026Z"
     },
     {
-      "name": "sunset-views-via-stack.cpp",
+      "name": "sunset-views-via-stack",
       "createdAt": "2021-09-12T10:18:39.094Z"
     },
     {
-      "name": "valid-parenthesis.cpp",
+      "name": "valid-parenthesis",
       "createdAt": "2021-05-19T07:12:19.768Z"
     },
     {
-      "name": "validate-stack-sequences.cpp",
+      "name": "validate-stack-sequences",
       "createdAt": "2021-05-26T19:12:17.250Z"
     }
   ],
   "Strings": [
     {
-      "name": "add-spaces.cpp",
+      "name": "add-spaces",
       "createdAt": "2021-12-19T17:22:51.303Z"
     },
     {
-      "name": "common-word.cpp",
+      "name": "common-word",
       "createdAt": "2021-10-18T18:28:28.653Z"
     },
     {
-      "name": "consecutive-characters.cpp",
+      "name": "consecutive-characters",
       "createdAt": "2021-12-13T17:09:48.115Z"
     },
     {
-      "name": "count-vowel-substrings.cpp",
+      "name": "count-vowel-substrings",
       "createdAt": "2021-12-04T08:54:12.197Z"
     },
     {
-      "name": "decode-the-slanted-ciphertext.cpp",
+      "name": "decode-the-slanted-ciphertext",
       "createdAt": "2021-12-03T12:54:57.167Z"
     },
     {
-      "name": "find-all-anagrams-string.cpp",
+      "name": "find-all-anagrams-string",
       "createdAt": "2022-02-02T18:30:31.480Z"
     },
     {
-      "name": "find-the-difference.cpp",
+      "name": "find-the-difference",
       "createdAt": "2022-02-07T18:10:23.923Z"
     },
     {
-      "name": "first-non-repeating-char.cpp",
+      "name": "first-non-repeating-char",
       "createdAt": "2021-06-02T15:43:35.235Z"
     },
     {
-      "name": "first-palindrome-string.cpp",
+      "name": "first-palindrome-string",
       "createdAt": "2021-12-19T17:17:41.790Z"
     },
     {
-      "name": "group-anagrams.cpp",
+      "name": "group-anagrams",
       "createdAt": "2021-08-22T17:02:55.961Z"
     },
     {
-      "name": "is-subsequence.cpp",
+      "name": "is-subsequence",
       "createdAt": "2022-03-02T18:24:41.432Z"
     },
     {
-      "name": "isomorphic-strings.cpp",
+      "name": "isomorphic-strings",
       "createdAt": "2021-07-12T18:53:06.977Z"
     },
     {
-      "name": "largest-anagrams-group.cpp",
+      "name": "largest-anagrams-group",
       "createdAt": "2021-07-21T18:33:39.698Z"
     },
     {
-      "name": "license-key-formatting.cpp",
+      "name": "license-key-formatting",
       "createdAt": "2021-12-18T17:53:30.441Z"
     },
     {
-      "name": "longest-anagram-substring.cpp",
+      "name": "longest-anagram-substring",
       "createdAt": "2021-07-29T18:23:55.661Z"
     },
     {
-      "name": "longest-palindromic-substring.cpp",
+      "name": "longest-palindromic-substring",
       "createdAt": "2021-09-12T10:54:51.020Z"
     },
     {
-      "name": "minimum-time-to-type-word.cpp",
+      "name": "minimum-time-to-type-word",
       "createdAt": "2021-09-08T13:41:22.764Z"
     },
     {
-      "name": "num-lines-to-write-string.cpp",
+      "name": "num-lines-to-write-string",
       "createdAt": "2021-11-30T20:18:17.051Z"
     },
     {
-      "name": "permutation-in-string.cpp",
+      "name": "permutation-in-string",
       "createdAt": "2022-02-11T18:21:40.632Z"
     },
     {
-      "name": "reverse-the-vowels.cpp",
+      "name": "reverse-the-vowels",
       "createdAt": "2021-11-30T20:26:03.675Z"
     },
     {
-      "name": "reverse-word-in-substring.cpp",
+      "name": "reverse-word-in-substring",
       "createdAt": "2021-09-14T18:13:44.673Z"
     },
     {
-      "name": "robot-return-to-origin.cpp",
+      "name": "robot-return-to-origin",
       "createdAt": "2021-12-30T18:06:04.125Z"
     },
     {
-      "name": "rotation-groups.cpp",
+      "name": "rotation-groups",
       "createdAt": "2021-07-12T18:29:12.124Z"
     },
     {
-      "name": "run-length-encoding-2.cpp",
+      "name": "run-length-encoding-2",
       "createdAt": "2021-09-04T18:13:08.746Z"
     },
     {
-      "name": "run-length-encoding.cpp",
+      "name": "run-length-encoding",
       "createdAt": "2021-06-02T15:11:32.419Z"
     },
     {
-      "name": "sentence-reversal.cpp",
+      "name": "sentence-reversal",
       "createdAt": "2021-08-31T17:20:49.686Z"
     },
     {
-      "name": "simplify-paths.cpp",
+      "name": "simplify-paths",
       "createdAt": "2022-03-14T17:52:43.232Z"
     },
     {
-      "name": "sorting-mail.cpp",
+      "name": "sorting-mail",
       "createdAt": "2022-03-11T18:18:13.830Z"
     },
     {
-      "name": "stream-of-characters.cpp",
+      "name": "stream-of-characters",
       "createdAt": "2021-12-08T19:03:51.352Z"
     },
     {
-      "name": "substrings-of-size-3-distinct-chars.cpp",
+      "name": "substrings-of-size-3-distinct-chars",
       "createdAt": "2021-12-27T18:27:38.499Z"
     },
     {
-      "name": "suffix-tries.cpp",
+      "name": "suffix-tries",
       "createdAt": "2021-10-07T19:34:39.054Z"
     },
     {
-      "name": "summary-ranges.cpp",
+      "name": "summary-ranges",
       "createdAt": "2022-02-28T18:28:53.834Z"
     },
     {
-      "name": "word-pattern.cpp",
+      "name": "word-pattern",
       "createdAt": "2022-01-27T18:52:41.961Z"
     }
   ],
   "Trees": [
     {
-      "name": "all-elements-in-two-bst.cpp",
+      "name": "all-elements-in-two-bst",
       "createdAt": "2022-01-28T19:11:42.385Z"
     },
     {
-      "name": "balanced-binary-tree.cpp",
+      "name": "balanced-binary-tree",
       "createdAt": "2021-06-14T18:10:48.239Z"
     },
     {
-      "name": "binary-tree-diameter.cpp",
+      "name": "binary-tree-diameter",
       "createdAt": "2021-06-10T18:15:32.348Z"
     },
     {
-      "name": "binary-tree-successor-1.cpp",
+      "name": "binary-tree-successor-1",
       "createdAt": "2021-06-10T18:16:03.771Z"
     },
     {
-      "name": "binary-tree-successor-2.cpp",
+      "name": "binary-tree-successor-2",
       "createdAt": "2021-06-10T18:45:41.924Z"
     },
     {
-      "name": "binary-tree-tilt.cpp",
+      "name": "binary-tree-tilt",
       "createdAt": "2021-12-11T19:06:10.196Z"
     },
     {
-      "name": "branch-sums.cpp",
+      "name": "branch-sums",
       "createdAt": "2021-05-31T18:24:20.329Z"
     },
     {
-      "name": "bst-traversal.cpp",
+      "name": "bst-traversal",
       "createdAt": "2021-06-08T18:15:31.297Z"
     },
     {
-      "name": "closest-value-bst.cpp",
+      "name": "closest-value-bst",
       "createdAt": "2021-05-31T18:04:11.492Z"
     },
     {
-      "name": "construct-bst.cpp",
+      "name": "construct-bst",
       "createdAt": "2021-06-08T18:14:59.409Z"
     },
     {
-      "name": "construct-tree-from-preorder-inorder.cpp",
+      "name": "construct-tree-from-preorder-inorder",
       "createdAt": "2021-06-24T17:50:42.794Z"
     },
     {
-      "name": "count-right-smaller-than-1.cpp",
+      "name": "count-right-smaller-than-1",
       "createdAt": "2021-10-31T05:54:59.265Z"
     },
     {
-      "name": "count-right-smaller-than-2(clean).cpp",
+      "name": "count-right-smaller-than-2(clean)",
       "createdAt": "2021-10-31T06:16:13.759Z"
     },
     {
-      "name": "depth-first-search.cpp",
+      "name": "depth-first-search",
       "createdAt": "2021-06-01T18:01:06.506Z"
     },
     {
-      "name": "enlarge-bst.cpp",
+      "name": "enlarge-bst",
       "createdAt": "2021-07-04T19:17:42.830Z"
     },
     {
-      "name": "house-robbers-iii.cpp",
+      "name": "house-robbers-iii",
       "createdAt": "2021-12-10T19:07:41.353Z"
     },
     {
-      "name": "inorder-successor-iterative.cpp",
+      "name": "inorder-successor-iterative",
       "createdAt": "2021-08-30T12:11:17.538Z"
     },
     {
-      "name": "inorder-successor-recursive.cpp",
+      "name": "inorder-successor-recursive",
       "createdAt": "2021-08-30T12:07:38.122Z"
     },
     {
-      "name": "invert-binary-tree.cpp",
+      "name": "invert-binary-tree",
       "createdAt": "2021-06-10T18:15:06.543Z"
     },
     {
-      "name": "is-subtree.cpp",
+      "name": "is-subtree",
       "createdAt": "2021-07-10T18:15:10.586Z"
     },
     {
-      "name": "kth-largest-value-bst.cpp",
+      "name": "kth-largest-value-bst",
       "createdAt": "2021-06-08T18:16:12.294Z"
     },
     {
-      "name": "level-order-alternating.cpp",
+      "name": "level-order-alternating",
       "createdAt": "2021-06-11T15:51:24.059Z"
     },
     {
-      "name": "list-to-bst.cpp",
+      "name": "list-to-bst",
       "createdAt": "2021-08-30T17:23:50.298Z"
     },
     {
-      "name": "merge-binary-tree-optimized.cpp",
+      "name": "merge-binary-tree-optimized",
       "createdAt": "2021-08-15T15:54:16.387Z"
     },
     {
-      "name": "merge-binary-tree.cpp",
+      "name": "merge-binary-tree",
       "createdAt": "2021-08-14T17:18:50.206Z"
     },
     {
-      "name": "min-height-bst.cpp",
+      "name": "min-height-bst",
       "createdAt": "2021-06-08T18:15:50.237Z"
     },
     {
-      "name": "next-node-right-same-level.cpp",
+      "name": "next-node-right-same-level",
       "createdAt": "2021-07-11T18:07:54.623Z"
     },
     {
-      "name": "preorder-bst.cpp",
+      "name": "preorder-bst",
       "createdAt": "2021-06-08T18:17:23.660Z"
     },
     {
-      "name": "range-sum-bst.cpp",
+      "name": "range-sum-bst",
       "createdAt": "2021-12-14T18:25:38.593Z"
     },
     {
-      "name": "subtree-with-max-average.cpp",
+      "name": "subtree-with-max-average",
       "createdAt": "2021-07-04T19:17:26.857Z"
     },
     {
-      "name": "sum-of-depths.cpp",
+      "name": "sum-of-depths",
       "createdAt": "2021-06-01T06:07:13.895Z"
     },
     {
-      "name": "valid-bst.cpp",
+      "name": "valid-bst",
       "createdAt": "2021-06-04T18:26:45.604Z"
     },
     {
-      "name": "youngest-common-ancestor.cpp",
+      "name": "youngest-common-ancestor",
       "createdAt": "2021-06-28T18:20:10.570Z"
     }
   ]

@@ -25,7 +25,7 @@ const prepareSolutionInfoObject = async (
       const solutionPath = path.join(leetcodeDirectory, category, solutionName);
       const solutionStats = await fs.lstat(solutionPath);
       const solutionInfo = {
-        name: solutionName,
+        name: solutionName.split('.')[0],
         createdAt: solutionStats.birthtime,
       };
       solutionList.push(solutionInfo);
