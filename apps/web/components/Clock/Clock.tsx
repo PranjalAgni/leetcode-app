@@ -4,6 +4,7 @@ import { useEffect, useState } from 'react';
 interface Props {
   className: string;
 }
+
 export default function Clock({}: Props): ReactElement {
   const [currentTime, setCurrentTime] = useState(Date.now());
   const [formattedTime, setFormattedTime] = useState(null);

@@ -7,7 +7,9 @@ export default function Dashboard() {
   const problems = useQuery('problems', fetchProblems);
   console.log('React query ', problems);
   if (problems.isLoading) return <button aria-busy="true">Loading ⏰</button>;
-  const columns = Object.keys(problems.data.data[0]);
+  const columns = Object.keys(problems.data.data[0]).map((column) =>
+    column.toUpperCase()
+  );
   return (
     <Layout>
       {problems.data.error ? (
