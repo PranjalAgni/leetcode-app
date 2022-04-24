@@ -34,6 +34,7 @@ exports.seed = async function (knex) {
       problemsByTag.map((problem) => {
         const row = {
           problem_name: problem.name,
+          problem_url: problem.url,
           fk_tag_id: tagId,
           solution_created_at: problem.createdAt,
           created_at: new Date(),

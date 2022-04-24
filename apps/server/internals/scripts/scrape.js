@@ -7,6 +7,7 @@ const {
   filterDotFiles,
   getCategoryVsSolutionMap,
 } = require('../utils/files');
+const parseURLFromFile = require('./parseURL');
 
 /**
  *
@@ -23,10 +24,12 @@ const prepareSolutionInfoObject = async (
     const solutionList = [];
     for (const solutionName of solutions) {
       const solutionPath = path.join(leetcodeDirectory, category, solutionName);
+      const url = await parseURLFromFile(solutionPath);
       const solutionStats = await fs.lstat(solutionPath);
       const solutionInfo = {
         name: solutionName.split('.')[0],
         createdAt: solutionStats.birthtime,
+        url,
       };
       solutionList.push(solutionInfo);
     }
