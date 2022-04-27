@@ -12,6 +12,8 @@ body {
   min-height: 100vh;
   min-height: -webkit-fill-available;
   font-family: 'Sora', sans-serif;
+  overflow: hidden;
+  box-sizing: content-box;
 }
 
 @media (min-width: 768px) {
@@ -56,9 +58,16 @@ body {
 
 /* Footer */
 footer {
-  position: absolute;
+  position: relative;
   bottom: 0;
   width: 100%;
   padding: 1rem 0;
 }
 
+table thead th {
+  padding: 3px;
+  position: sticky;
+  top: 0;
+  z-index: 1;
+  width: 25vw;
+}

@@ -1,0 +1,8 @@
+.tableWrapper {
+  overflow: auto;
+  /* max-height: 20%; */
+  position: relative;
+  /* overflow: scroll; */
+  /* width: 1000px; */
+  height: 75vh;
+}
