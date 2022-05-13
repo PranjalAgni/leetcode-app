@@ -8,9 +8,9 @@ type TableProps = {
 export default function Table({ data, columns }: TableProps) {
   return (
     <div className={styles.tableWrapper}>
-      <table>
+      <table role="grid">
         <thead>
-          <tr>
+          <tr className={styles.tableColumn}>
             {columns.map((column, idx) => (
               <th key={idx} scope="col">
                 {column}

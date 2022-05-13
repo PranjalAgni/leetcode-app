@@ -6,3 +6,7 @@
   /* width: 1000px; */
   height: 75vh;
 }
+
+.tableColumn {
+  margin-left: 5px;
+}
