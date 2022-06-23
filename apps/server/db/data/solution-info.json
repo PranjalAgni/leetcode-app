@@ -21,6 +21,11 @@
       "url": "https://leetcode.com/problems/minimum-number-of-buckets-required-to-collect-rainwater-from-houses/"
     },
     {
+      "name": "number-of-steps-to-reduce-zero",
+      "createdAt": "2022-05-29T16:39:18.221Z",
+      "url": "https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/"
+    },
+    {
       "name": "subsequence-of-length-k-max-sum",
       "createdAt": "2021-12-12T16:57:36.263Z",
       "url": "https://leetcode.com/problems/find-subsequence-of-length-k-with-the-largest-sum/"
@@ -118,6 +123,11 @@
       "url": "https://leetcode.com/problems/max-number-of-k-sum-pairs/"
     },
     {
+      "name": "maximum-erasure-value",
+      "createdAt": "2022-06-12T18:26:53.461Z",
+      "url": "https://leetcode.com/problems/maximum-erasure-value/"
+    },
+    {
       "name": "maximum-matrix-sum",
       "createdAt": "2021-09-08T17:00:19.310Z",
       "url": null
@@ -176,6 +186,11 @@
       "name": "rotate-arrays",
       "createdAt": "2022-01-30T17:13:27.346Z",
       "url": "https://leetcode.com/problems/rotate-array/"
+    },
+    {
+      "name": "running-sum-1D-array",
+      "createdAt": "2022-06-07T18:21:51.645Z",
+      "url": "https://leetcode.com/problems/running-sum-of-1d-array/"
     },
     {
       "name": "selling-products",
@@ -365,7 +380,7 @@
     },
     {
       "name": "longest-increasing-path-in-matrix",
-      "createdAt": "2022-05-22T18:27:23.844Z",
+      "createdAt": "2022-05-27T17:59:42.053Z",
       "url": "https://leetcode.com/problems/longest-increasing-path-in-a-matrix/"
     },
     {
@@ -719,6 +734,11 @@
       "url": null
     },
     {
+      "name": "missing-number",
+      "createdAt": "2022-05-30T17:59:31.443Z",
+      "url": "https://leetcode.com/problems/missing-number/"
+    },
+    {
       "name": "permutation",
       "createdAt": "2021-07-27T21:44:20.943Z",
       "url": null
@@ -783,6 +803,11 @@
       "name": "phone-number-mnemoics",
       "createdAt": "2021-08-15T15:53:44.621Z",
       "url": null
+    },
+    {
+      "name": "triangle",
+      "createdAt": "2022-06-14T09:25:21.883Z",
+      "url": "https://leetcode.com/problems/triangle/"
     }
   ],
   "Sorting": [
@@ -1001,6 +1026,11 @@
       "url": null
     },
     {
+      "name": "maximum-product-of-word-length",
+      "createdAt": "2022-05-29T18:09:37.543Z",
+      "url": "https://leetcode.com/problems/maximum-product-of-word-lengths/"
+    },
+    {
       "name": "minimum-time-to-type-word",
       "createdAt": "2021-09-08T13:41:22.764Z",
       "url": null
@@ -1051,6 +1081,11 @@
       "url": null
     },
     {
+      "name": "search-suggestion-system",
+      "createdAt": "2022-06-20T18:29:07.848Z",
+      "url": "https://leetcode.com/problems/search-suggestions-system/"
+    },
+    {
       "name": "sentence-reversal",
       "createdAt": "2021-08-31T17:20:49.686Z",
       "url": null
@@ -1077,7 +1112,7 @@
     },
     {
       "name": "suffix-tries",
-      "createdAt": "2021-10-07T19:34:39.054Z",
+      "createdAt": "2022-06-20T20:19:18.623Z",
       "url": null
     },
     {
