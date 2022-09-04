@@ -11,6 +11,16 @@
       "url": "https://leetcode.com/problems/design-underground-system/"
     },
     {
+      "name": "fibonacci-number",
+      "createdAt": "2022-07-06T18:19:18.080Z",
+      "url": "https://leetcode.com/problems/fibonacci-number/"
+    },
+    {
+      "name": "matchsticks-to-square",
+      "createdAt": "2022-07-12T18:06:11.932Z",
+      "url": "https://leetcode.com/problems/matchsticks-to-square/"
+    },
+    {
       "name": "max-distance-between-houses",
       "createdAt": "2021-11-27T10:58:41.040Z",
       "url": "https://leetcode.com/contest/weekly-contest-268/problems/two-furthest-houses-with-different-colors/"
@@ -166,6 +176,11 @@
       "name": "range-sum-query",
       "createdAt": "2021-11-30T20:07:29.008Z",
       "url": "https://leetcode.com/problems/range-sum-query-immutable/"
+    },
+    {
+      "name": "reduce-array-size-to-half",
+      "createdAt": "2022-08-19T05:25:19.755Z",
+      "url": null
     },
     {
       "name": "remove-half-list-minimum-operation",
@@ -384,6 +399,11 @@
       "url": "https://leetcode.com/problems/longest-increasing-path-in-a-matrix/"
     },
     {
+      "name": "max-area-of-islands",
+      "createdAt": "2022-07-16T16:04:33.328Z",
+      "url": "https://leetcode.com/problems/max-area-of-island/"
+    },
+    {
       "name": "min-matrix-passes-optimized",
       "createdAt": "2021-07-02T16:29:22.323Z",
       "url": null
@@ -446,6 +466,11 @@
       "url": null
     },
     {
+      "name": "my-calendar",
+      "createdAt": "2022-08-19T05:43:05.952Z",
+      "url": "https://leetcode.com/problems/my-calendar-i/"
+    },
+    {
       "name": "tandem-bicycle",
       "createdAt": "2021-06-02T08:00:18.111Z",
       "url": null
@@ -501,6 +526,11 @@
       "name": "largest-range",
       "createdAt": "2021-12-06T12:57:54.801Z",
       "url": null
+    },
+    {
+      "name": "max-sum-of-pairs-with-equal-sum-of-digits",
+      "createdAt": "2022-07-18T18:01:19.262Z",
+      "url": "https://leetcode.com/problems/max-sum-of-a-pair-with-equal-sum-of-digits/"
     },
     {
       "name": "minimum-character-for-words",
@@ -734,6 +764,16 @@
       "url": null
     },
     {
+      "name": "is-power-of-4",
+      "createdAt": "2022-08-23T17:06:04.740Z",
+      "url": "https://leetcode.com/problems/power-of-four/"
+    },
+    {
+      "name": "is-power-of-three",
+      "createdAt": "2022-08-24T19:13:57.201Z",
+      "url": "https://leetcode.com/problems/power-of-three/"
+    },
+    {
       "name": "missing-number",
       "createdAt": "2022-05-30T17:59:31.443Z",
       "url": "https://leetcode.com/problems/missing-number/"
@@ -747,6 +787,11 @@
       "name": "powerset",
       "createdAt": "2021-08-04T18:20:19.435Z",
       "url": null
+    },
+    {
+      "name": "reordered-power-of-2",
+      "createdAt": "2022-08-28T08:48:22.438Z",
+      "url": "https://leetcode.com/problems/reordered-power-of-2/"
     }
   ],
   "Pointers": [
@@ -808,6 +853,13 @@
       "name": "triangle",
       "createdAt": "2022-06-14T09:25:21.883Z",
       "url": "https://leetcode.com/problems/triangle/"
+    }
+  ],
+  "SlidingWindow": [
+    {
+      "name": "maximum-points-you-can-obtain-from-cards",
+      "createdAt": "2022-06-26T18:26:17.084Z",
+      "url": "https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/"
     }
   ],
   "Sorting": [
@@ -1031,6 +1083,11 @@
       "url": "https://leetcode.com/problems/maximum-product-of-word-lengths/"
     },
     {
+      "name": "min-deletions-to-make-characters-unique",
+      "createdAt": "2022-06-28T16:57:41.048Z",
+      "url": "https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/"
+    },
+    {
       "name": "minimum-time-to-type-word",
       "createdAt": "2021-09-08T13:41:22.764Z",
       "url": null
@@ -1041,9 +1098,19 @@
       "url": "https://leetcode.com/problems/number-of-lines-to-write-string/"
     },
     {
+      "name": "num-matching-subsequence",
+      "createdAt": "2022-07-21T18:26:02.167Z",
+      "url": "https://leetcode.com/problems/number-of-matching-subsequences/"
+    },
+    {
       "name": "permutation-in-string",
       "createdAt": "2022-02-11T18:21:40.632Z",
       "url": "https://leetcode.com/problems/permutation-in-string/"
+    },
+    {
+      "name": "ransom-note",
+      "createdAt": "2022-08-30T18:26:05.726Z",
+      "url": "https://leetcode.com/problems/ransom-note/"
     },
     {
       "name": "remove-k-adjacent-duplicates",
@@ -1124,6 +1191,11 @@
       "name": "word-pattern",
       "createdAt": "2022-01-27T18:52:41.961Z",
       "url": "https://leetcode.com/problems/word-pattern/"
+    },
+    {
+      "name": "word-subsets",
+      "createdAt": "2022-07-30T18:26:05.630Z",
+      "url": "https://leetcode.com/problems/word-subsets/"
     }
   ],
   "Trees": [
@@ -1131,6 +1203,11 @@
       "name": "all-elements-in-two-bst",
       "createdAt": "2022-01-28T19:11:42.385Z",
       "url": null
+    },
+    {
+      "name": "average-of-levels-of-tree",
+      "createdAt": "2022-09-04T18:02:14.711Z",
+      "url": "https://leetcode.com/problems/average-of-levels-in-binary-tree/"
     },
     {
       "name": "balanced-binary-tree",
@@ -1186,6 +1263,11 @@
       "name": "construct-tree-from-preorder-inorder",
       "createdAt": "2021-06-24T17:50:42.794Z",
       "url": null
+    },
+    {
+      "name": "count-good-nodes-in-binary-tree",
+      "createdAt": "2022-09-01T18:28:13.193Z",
+      "url": "https://leetcode.com/problems/count-good-nodes-in-binary-tree/"
     },
     {
       "name": "count-right-smaller-than-1",
@@ -1251,6 +1333,11 @@
       "name": "level-order-alternating",
       "createdAt": "2021-06-11T15:51:24.059Z",
       "url": null
+    },
+    {
+      "name": "level-order-traversal",
+      "createdAt": "2022-07-13T18:34:12.603Z",
+      "url": "https://leetcode.com/problems/binary-tree-level-order-traversal/"
     },
     {
       "name": "list-to-bst",
