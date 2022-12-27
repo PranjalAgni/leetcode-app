@@ -1,6 +1,16 @@
 {
   "Adhoc": [
     {
+      "name": "average-value-of-even-numbers-that-are-divisible-by-3",
+      "createdAt": "2022-10-30T17:46:26.849Z",
+      "url": "https://leetcode.com/contest/weekly-contest-317/problems/average-value-of-even-numbers-that-are-divisible-by-three/"
+    },
+    {
+      "name": "count-number-of-distinct-integers-after-reverse-operations",
+      "createdAt": "2022-10-21T17:00:34.506Z",
+      "url": "https://leetcode.com/contest/weekly-contest-315/problems/count-number-of-distinct-integers-after-reverse-operations/"
+    },
+    {
       "name": "design-peeking-iterator",
       "createdAt": "2022-04-25T18:28:04.575Z",
       "url": "https://leetcode.com/problems/peeking-iterator/"
@@ -11,9 +21,24 @@
       "url": "https://leetcode.com/problems/design-underground-system/"
     },
     {
+      "name": "determine-if-two-events-have-conflict",
+      "createdAt": "2022-10-23T05:29:41.542Z",
+      "url": "https://leetcode.com/contest/weekly-contest-316/problems/determine-if-two-events-have-conflict/"
+    },
+    {
       "name": "fibonacci-number",
       "createdAt": "2022-07-06T18:19:18.080Z",
       "url": "https://leetcode.com/problems/fibonacci-number/"
+    },
+    {
+      "name": "integer-to-roman",
+      "createdAt": "2022-10-20T18:00:53.932Z",
+      "url": "https://leetcode.com/problems/integer-to-roman/"
+    },
+    {
+      "name": "largest-positive-integer-that-exists-with-its-negative",
+      "createdAt": "2022-10-21T12:26:45.637Z",
+      "url": "https://leetcode.com/contest/weekly-contest-315/problems/largest-positive-integer-that-exists-with-its-negative/"
     },
     {
       "name": "matchsticks-to-square",
@@ -36,9 +61,24 @@
       "url": "https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/"
     },
     {
+      "name": "number-of-valid-clock-times",
+      "createdAt": "2022-10-28T18:40:16.412Z",
+      "url": "https://leetcode.com/problems/number-of-valid-clock-times/"
+    },
+    {
       "name": "subsequence-of-length-k-max-sum",
       "createdAt": "2021-12-12T16:57:36.263Z",
       "url": "https://leetcode.com/problems/find-subsequence-of-length-k-with-the-largest-sum/"
+    },
+    {
+      "name": "sum-of-number-and-its-reverse",
+      "createdAt": "2022-10-22T17:01:53.423Z",
+      "url": "https://leetcode.com/contest/weekly-contest-315/problems/sum-of-number-and-its-reverse/"
+    },
+    {
+      "name": "toeplitz-matrix",
+      "createdAt": "2022-10-31T17:50:55.658Z",
+      "url": null
     },
     {
       "name": "watering-plants",
@@ -93,6 +133,11 @@
       "url": null
     },
     {
+      "name": "image-overlap",
+      "createdAt": "2022-10-27T17:30:19.209Z",
+      "url": "https://leetcode.com/problems/image-overlap/"
+    },
+    {
       "name": "intersection-arrays",
       "createdAt": "2022-01-14T18:24:42.863Z",
       "url": "https://leetcode.com/problems/intersection-of-two-arrays/"
@@ -116,6 +161,11 @@
       "name": "longest-peak",
       "createdAt": "2021-06-03T18:28:23.739Z",
       "url": null
+    },
+    {
+      "name": "longest-subsequence-with-limited-sum",
+      "createdAt": "2022-12-25T18:23:00.810Z",
+      "url": "https://leetcode.com/problems/longest-subsequence-with-limited-sum/"
     },
     {
       "name": "lru",
@@ -153,6 +203,11 @@
       "url": "https://leetcode.com/problems/minimum-absolute-difference/"
     },
     {
+      "name": "minimum-average-difference",
+      "createdAt": "2022-12-04T18:20:16.722Z",
+      "url": "https://leetcode.com/problems/minimum-average-difference/"
+    },
+    {
       "name": "minimum-cost-to-move-chips",
       "createdAt": "2021-12-09T18:22:42.481Z",
       "url": "https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/"
@@ -173,6 +228,11 @@
       "url": null
     },
     {
+      "name": "possible-bipartition",
+      "createdAt": "2022-12-21T18:15:35.055Z",
+      "url": "https://leetcode.com/problems/possible-bipartition/"
+    },
+    {
       "name": "range-sum-query",
       "createdAt": "2021-11-30T20:07:29.008Z",
       "url": "https://leetcode.com/problems/range-sum-query-immutable/"
@@ -181,6 +241,11 @@
       "name": "reduce-array-size-to-half",
       "createdAt": "2022-08-19T05:25:19.755Z",
       "url": null
+    },
+    {
+      "name": "remove-duplicates-from-sorted-array",
+      "createdAt": "2022-11-11T17:13:18.093Z",
+      "url": "https://leetcode.com/problems/remove-duplicates-from-sorted-array/"
     },
     {
       "name": "remove-half-list-minimum-operation",
@@ -253,6 +318,11 @@
       "url": null
     },
     {
+      "name": "sum-of-subarray-mins",
+      "createdAt": "2022-11-25T18:05:35.631Z",
+      "url": "https://leetcode.com/problems/sum-of-subarray-minimums/"
+    },
+    {
       "name": "three-number-sort",
       "createdAt": "2021-08-16T18:15:21.256Z",
       "url": null
@@ -271,6 +341,11 @@
       "name": "validate-subsequences",
       "createdAt": "2021-05-30T19:24:56.298Z",
       "url": null
+    },
+    {
+      "name": "where-the-ball-will-fall",
+      "createdAt": "2022-11-01T18:35:09.749Z",
+      "url": "https://leetcode.com/problems/where-will-the-ball-fall/"
     },
     {
       "name": "wolf-of-wall-street",
@@ -355,6 +430,11 @@
       "name": "max-sum-increasing-subsequence",
       "createdAt": "2021-11-16T18:36:01.646Z",
       "url": null
+    },
+    {
+      "name": "perfect-squares",
+      "createdAt": "2022-11-22T18:07:28.268Z",
+      "url": "https://leetcode.com/problems/perfect-squares/"
     },
     {
       "name": "staircase-traversal-1",
@@ -471,6 +551,11 @@
       "url": "https://leetcode.com/problems/my-calendar-i/"
     },
     {
+      "name": "number-of-weak-characters-in-game",
+      "createdAt": "2022-09-10T18:21:06.981Z",
+      "url": "https://leetcode.com/problems/the-number-of-weak-characters-in-the-game/"
+    },
+    {
       "name": "tandem-bicycle",
       "createdAt": "2021-06-02T08:00:18.111Z",
       "url": null
@@ -491,6 +576,11 @@
       "name": "binary-subarray-with-sum-k",
       "createdAt": "2021-11-30T19:10:23.036Z",
       "url": "https://leetcode.com/problems/binary-subarrays-with-sum/"
+    },
+    {
+      "name": "continuous-subarray-sum",
+      "createdAt": "2022-10-26T18:27:17.119Z",
+      "url": "https://leetcode.com/problems/continuous-subarray-sum/"
     },
     {
       "name": "design-hashmap",
@@ -546,6 +636,11 @@
       "name": "subarray-sum-k",
       "createdAt": "2022-02-10T18:05:22.637Z",
       "url": "https://leetcode.com/problems/subarray-sum-equals-k/"
+    },
+    {
+      "name": "sum-of-even-numbers-after-queries",
+      "createdAt": "2022-09-21T17:11:19.230Z",
+      "url": "https://leetcode.com/problems/sum-of-even-numbers-after-queries/"
     }
   ],
   "Heaps": [
@@ -853,6 +948,11 @@
       "name": "triangle",
       "createdAt": "2022-06-14T09:25:21.883Z",
       "url": "https://leetcode.com/problems/triangle/"
+    },
+    {
+      "name": "where-the-ball-will-fall-recursion",
+      "createdAt": "2022-11-01T18:43:55.112Z",
+      "url": "https://leetcode.com/problems/where-will-the-ball-fall/"
     }
   ],
   "SlidingWindow": [
@@ -909,6 +1009,11 @@
       "name": "build-array-with-stack-operations",
       "createdAt": "2021-05-28T10:11:25.454Z",
       "url": null
+    },
+    {
+      "name": "daily-temperature",
+      "createdAt": "2022-12-18T17:49:11.657Z",
+      "url": "https://leetcode.com/problems/daily-temperatures/"
     },
     {
       "name": "decoded-string-at-index",
@@ -998,6 +1103,11 @@
       "url": "https://leetcode.com/contest/weekly-contest-272/problems/adding-spaces-to-a-string/"
     },
     {
+      "name": "check-if-two-strings-are-equivalent",
+      "createdAt": "2022-10-25T10:36:28.972Z",
+      "url": "https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/"
+    },
+    {
       "name": "common-word",
       "createdAt": "2021-10-18T18:28:28.653Z",
       "url": null
@@ -1016,6 +1126,11 @@
       "name": "decode-the-slanted-ciphertext",
       "createdAt": "2021-12-03T12:54:57.167Z",
       "url": null
+    },
+    {
+      "name": "determine-string-halves-same",
+      "createdAt": "2022-12-01T18:28:18.963Z",
+      "url": "https://leetcode.com/problems/determine-if-string-halves-are-alike/"
     },
     {
       "name": "encode-and-decode-tiny-url",
@@ -1045,7 +1160,7 @@
     {
       "name": "group-anagrams",
       "createdAt": "2021-08-22T17:02:55.961Z",
-      "url": null
+      "url": "https://leetcode.com/problems/group-anagrams/"
     },
     {
       "name": "is-subsequence",
@@ -1073,9 +1188,19 @@
       "url": null
     },
     {
+      "name": "longest-palindrome-by-concatenating-two-letter-words",
+      "createdAt": "2022-11-03T18:27:07.794Z",
+      "url": null
+    },
+    {
       "name": "longest-palindromic-substring",
       "createdAt": "2021-09-12T10:54:51.020Z",
       "url": null
+    },
+    {
+      "name": "max-length-of-concatenated-unique-string",
+      "createdAt": "2022-10-24T13:56:03.098Z",
+      "url": "https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/"
     },
     {
       "name": "maximum-product-of-word-length",
@@ -1103,6 +1228,11 @@
       "url": "https://leetcode.com/problems/number-of-matching-subsequences/"
     },
     {
+      "name": "orderly-queues",
+      "createdAt": "2022-11-06T18:27:06.212Z",
+      "url": "https://leetcode.com/problems/orderly-queue/"
+    },
+    {
       "name": "permutation-in-string",
       "createdAt": "2022-02-11T18:21:40.632Z",
       "url": "https://leetcode.com/problems/permutation-in-string/"
@@ -1124,7 +1254,7 @@
     },
     {
       "name": "reverse-word-in-substring",
-      "createdAt": "2021-09-14T18:13:44.673Z",
+      "createdAt": "2022-11-22T18:08:39.495Z",
       "url": null
     },
     {
@@ -1188,9 +1318,19 @@
       "url": "https://leetcode.com/problems/summary-ranges/"
     },
     {
+      "name": "top-k-frequent-words",
+      "createdAt": "2022-10-19T13:28:52.273Z",
+      "url": "https://leetcode.com/problems/top-k-frequent-words/"
+    },
+    {
       "name": "word-pattern",
       "createdAt": "2022-01-27T18:52:41.961Z",
       "url": "https://leetcode.com/problems/word-pattern/"
+    },
+    {
+      "name": "word-search",
+      "createdAt": "2022-11-24T18:26:01.034Z",
+      "url": "https://leetcode.com/problems/word-search/"
     },
     {
       "name": "word-subsets",
@@ -1345,6 +1485,11 @@
       "url": null
     },
     {
+      "name": "maximum-product-of-binary-splitted-tree",
+      "createdAt": "2022-12-10T20:37:29.176Z",
+      "url": "https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/"
+    },
+    {
       "name": "merge-binary-tree-optimized",
       "createdAt": "2021-08-15T15:54:16.387Z",
       "url": null
@@ -1390,6 +1535,11 @@
       "url": null
     },
     {
+      "name": "two-sum-in-bst",
+      "createdAt": "2022-10-09T13:09:40.851Z",
+      "url": "https://leetcode.com/problems/two-sum-iv-input-is-a-bst/"
+    },
+    {
       "name": "valid-bst",
       "createdAt": "2021-06-04T18:26:45.604Z",
       "url": null
@@ -1405,6 +1555,11 @@
       "name": "account-merge",
       "createdAt": "2022-04-28T18:23:00.972Z",
       "url": "https://leetcode.com/problems/accounts-merge/"
+    },
+    {
+      "name": "satisfiability-of-equations",
+      "createdAt": "2022-10-02T13:29:59.128Z",
+      "url": "https://leetcode.com/problems/satisfiability-of-equality-equations/"
     }
   ]
 }
