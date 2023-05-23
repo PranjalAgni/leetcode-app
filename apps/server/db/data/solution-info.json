@@ -2,1687 +2,1687 @@
   "Adhoc": [
     {
       "name": "average-salary-removing-min-and-max",
-      "createdAt": "2023-05-01T18:18:54.045Z",
+      "createdAt": "01/05/2023",
       "url": "https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/"
     },
     {
       "name": "average-value-of-even-numbers-that-are-divisible-by-3",
-      "createdAt": "2022-10-30T17:46:26.849Z",
+      "createdAt": "30/10/2022",
       "url": "https://leetcode.com/contest/weekly-contest-317/problems/average-value-of-even-numbers-that-are-divisible-by-three/"
     },
     {
       "name": "count-number-of-distinct-integers-after-reverse-operations",
-      "createdAt": "2022-10-21T17:00:34.506Z",
+      "createdAt": "21/10/2022",
       "url": "https://leetcode.com/contest/weekly-contest-315/problems/count-number-of-distinct-integers-after-reverse-operations/"
     },
     {
       "name": "design-peeking-iterator",
-      "createdAt": "2022-04-25T18:28:04.575Z",
+      "createdAt": "25/04/2022",
       "url": "https://leetcode.com/problems/peeking-iterator/"
     },
     {
       "name": "design-underground",
-      "createdAt": "2022-04-24T18:53:12.775Z",
+      "createdAt": "25/04/2022",
       "url": "https://leetcode.com/problems/design-underground-system/"
     },
     {
       "name": "determine-if-two-events-have-conflict",
-      "createdAt": "2022-10-23T05:29:41.542Z",
+      "createdAt": "23/10/2022",
       "url": "https://leetcode.com/contest/weekly-contest-316/problems/determine-if-two-events-have-conflict/"
     },
     {
       "name": "fibonacci-number",
-      "createdAt": "2022-07-06T18:19:18.080Z",
+      "createdAt": "06/07/2022",
       "url": "https://leetcode.com/problems/fibonacci-number/"
     },
     {
       "name": "integer-to-roman",
-      "createdAt": "2022-10-20T18:00:53.932Z",
+      "createdAt": "20/10/2022",
       "url": "https://leetcode.com/problems/integer-to-roman/"
     },
     {
       "name": "largest-positive-integer-that-exists-with-its-negative",
-      "createdAt": "2022-10-21T12:26:45.637Z",
+      "createdAt": "21/10/2022",
       "url": "https://leetcode.com/contest/weekly-contest-315/problems/largest-positive-integer-that-exists-with-its-negative/"
     },
     {
       "name": "matchsticks-to-square",
-      "createdAt": "2022-07-12T18:06:11.932Z",
+      "createdAt": "12/07/2022",
       "url": "https://leetcode.com/problems/matchsticks-to-square/"
     },
     {
       "name": "max-distance-between-houses",
-      "createdAt": "2021-11-27T10:58:41.040Z",
+      "createdAt": "27/11/2021",
       "url": "https://leetcode.com/contest/weekly-contest-268/problems/two-furthest-houses-with-different-colors/"
     },
     {
       "name": "minimum-buckets-to-trap-rainwater",
-      "createdAt": "2021-11-27T21:49:13.119Z",
+      "createdAt": "28/11/2021",
       "url": "https://leetcode.com/problems/minimum-number-of-buckets-required-to-collect-rainwater-from-houses/"
     },
     {
       "name": "number-of-steps-to-reduce-zero",
-      "createdAt": "2022-05-29T16:39:18.221Z",
+      "createdAt": "29/05/2022",
       "url": "https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/"
     },
     {
       "name": "number-of-valid-clock-times",
-      "createdAt": "2022-10-28T18:40:16.412Z",
+      "createdAt": "29/10/2022",
       "url": "https://leetcode.com/problems/number-of-valid-clock-times/"
     },
     {
       "name": "sign-of-product-of-array",
-      "createdAt": "2023-05-02T11:04:42.446Z",
+      "createdAt": "02/05/2023",
       "url": "https://leetcode.com/problems/sign-of-the-product-of-an-array/"
     },
     {
       "name": "subsequence-of-length-k-max-sum",
-      "createdAt": "2021-12-12T16:57:36.263Z",
+      "createdAt": "12/12/2021",
       "url": "https://leetcode.com/problems/find-subsequence-of-length-k-with-the-largest-sum/"
     },
     {
       "name": "sum-of-number-and-its-reverse",
-      "createdAt": "2022-10-22T17:01:53.423Z",
+      "createdAt": "22/10/2022",
       "url": "https://leetcode.com/contest/weekly-contest-315/problems/sum-of-number-and-its-reverse/"
     },
     {
       "name": "toeplitz-matrix",
-      "createdAt": "2022-10-31T17:50:55.658Z",
+      "createdAt": "31/10/2022",
       "url": null
     },
     {
       "name": "watering-plants",
-      "createdAt": "2021-11-27T11:48:45.413Z",
+      "createdAt": "27/11/2021",
       "url": "https://leetcode.com/contest/weekly-contest-268/problems/watering-plants/"
     }
   ],
   "Arrays": [
     {
       "name": "3-sum-multiples",
-      "createdAt": "2022-04-06T18:13:44.380Z",
+      "createdAt": "06/04/2022",
       "url": null
     },
     {
       "name": "4sum-ii",
-      "createdAt": "2022-02-03T18:23:01.653Z",
+      "createdAt": "03/02/2022",
       "url": "https://leetcode.com/problems/4sum-ii/"
     },
     {
       "name": "arithmetic-slices",
-      "createdAt": "2022-03-03T18:24:16.851Z",
+      "createdAt": "03/03/2022",
       "url": "https://leetcode.com/problems/arithmetic-slices/"
     },
     {
       "name": "array-of-products",
-      "createdAt": "2021-06-04T18:27:20.082Z",
+      "createdAt": "04/06/2021",
       "url": null
     },
     {
       "name": "best-time-to-buy-sell-stocks",
-      "createdAt": "2022-02-01T18:10:44.348Z",
+      "createdAt": "01/02/2022",
       "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/"
     },
     {
       "name": "contiguous-arrays",
-      "createdAt": "2022-02-04T18:29:09.886Z",
+      "createdAt": "04/02/2022",
       "url": null
     },
     {
       "name": "delete-and-earn",
-      "createdAt": "2022-03-06T18:31:00.506Z",
+      "createdAt": "07/03/2022",
       "url": "https://leetcode.com/problems/delete-and-earn/"
     },
     {
       "name": "find-the-duplicate-number",
-      "createdAt": "2022-03-29T17:33:00.573Z",
+      "createdAt": "29/03/2022",
       "url": "https://leetcode.com/problems/find-the-duplicate-number/"
     },
     {
       "name": "first-duplicate-value",
-      "createdAt": "2021-06-04T18:27:41.044Z",
+      "createdAt": "04/06/2021",
       "url": null
     },
     {
       "name": "image-overlap",
-      "createdAt": "2022-10-27T17:30:19.209Z",
+      "createdAt": "27/10/2022",
       "url": "https://leetcode.com/problems/image-overlap/"
     },
     {
       "name": "intersection-arrays",
-      "createdAt": "2022-01-14T18:24:42.863Z",
+      "createdAt": "14/01/2022",
       "url": "https://leetcode.com/problems/intersection-of-two-arrays/"
     },
     {
       "name": "k-divisble-sublists",
-      "createdAt": "2021-07-04T18:16:11.424Z",
+      "createdAt": "04/07/2021",
       "url": null
     },
     {
       "name": "k-radius-subarrays-average",
-      "createdAt": "2021-11-28T17:48:55.141Z",
+      "createdAt": "28/11/2021",
       "url": "https://leetcode.com/contest/weekly-contest-269/problems/k-radius-subarray-averages/"
     },
     {
       "name": "kadens-algorithm",
-      "createdAt": "2021-06-22T18:24:05.241Z",
+      "createdAt": "22/06/2021",
       "url": null
     },
     {
       "name": "longest-peak",
-      "createdAt": "2021-06-03T18:28:23.739Z",
+      "createdAt": "03/06/2021",
       "url": null
     },
     {
       "name": "longest-subsequence-with-limited-sum",
-      "createdAt": "2022-12-25T18:23:00.810Z",
+      "createdAt": "25/12/2022",
       "url": "https://leetcode.com/problems/longest-subsequence-with-limited-sum/"
     },
     {
       "name": "lru",
-      "createdAt": "2022-01-25T19:54:08.921Z",
+      "createdAt": "26/01/2022",
       "url": null
     },
     {
       "name": "majority-element",
-      "createdAt": "2022-02-22T18:14:43.310Z",
+      "createdAt": "22/02/2022",
       "url": "https://leetcode.com/problems/majority-element/"
     },
     {
       "name": "max-number-of-k-sum-pairs",
-      "createdAt": "2022-05-04T17:48:07.563Z",
+      "createdAt": "04/05/2022",
       "url": "https://leetcode.com/problems/max-number-of-k-sum-pairs/"
     },
     {
       "name": "maximum-erasure-value",
-      "createdAt": "2022-06-12T18:26:53.461Z",
+      "createdAt": "12/06/2022",
       "url": "https://leetcode.com/problems/maximum-erasure-value/"
     },
     {
       "name": "maximum-matrix-sum",
-      "createdAt": "2021-09-08T17:00:19.310Z",
+      "createdAt": "08/09/2021",
       "url": null
     },
     {
       "name": "median-minimization",
-      "createdAt": "2021-07-03T18:22:04.320Z",
+      "createdAt": "03/07/2021",
       "url": null
     },
     {
       "name": "minimum-absolute-difference",
-      "createdAt": "2021-12-20T18:21:53.984Z",
+      "createdAt": "20/12/2021",
       "url": "https://leetcode.com/problems/minimum-absolute-difference/"
     },
     {
       "name": "minimum-average-difference",
-      "createdAt": "2022-12-04T18:20:16.722Z",
+      "createdAt": "04/12/2022",
       "url": "https://leetcode.com/problems/minimum-average-difference/"
     },
     {
       "name": "minimum-cost-to-move-chips",
-      "createdAt": "2021-12-09T18:22:42.481Z",
+      "createdAt": "09/12/2021",
       "url": "https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/"
     },
     {
       "name": "monotonic-array",
-      "createdAt": "2021-06-03T18:27:44.790Z",
+      "createdAt": "03/06/2021",
       "url": null
     },
     {
       "name": "move-element-two-end",
-      "createdAt": "2021-06-03T18:27:22.655Z",
+      "createdAt": "03/06/2021",
       "url": null
     },
     {
       "name": "non-constructible-change",
-      "createdAt": "2021-05-31T18:04:37.510Z",
+      "createdAt": "31/05/2021",
       "url": null
     },
     {
       "name": "number-of-zero-filled-subarrays",
-      "createdAt": "2023-03-21T18:26:35.339Z",
+      "createdAt": "21/03/2023",
       "url": "https://leetcode.com/problems/number-of-zero-filled-subarrays/"
     },
     {
       "name": "possible-bipartition",
-      "createdAt": "2022-12-21T18:15:35.055Z",
+      "createdAt": "21/12/2022",
       "url": "https://leetcode.com/problems/possible-bipartition/"
     },
     {
       "name": "range-sum-query",
-      "createdAt": "2021-11-30T20:07:29.008Z",
+      "createdAt": "01/12/2021",
       "url": "https://leetcode.com/problems/range-sum-query-immutable/"
     },
     {
       "name": "reduce-array-size-to-half",
-      "createdAt": "2022-08-19T05:25:19.755Z",
+      "createdAt": "19/08/2022",
       "url": null
     },
     {
       "name": "remove-duplicates-from-sorted-array",
-      "createdAt": "2022-11-11T17:13:18.093Z",
+      "createdAt": "11/11/2022",
       "url": "https://leetcode.com/problems/remove-duplicates-from-sorted-array/"
     },
     {
       "name": "remove-half-list-minimum-operation",
-      "createdAt": "2021-08-12T18:20:04.723Z",
+      "createdAt": "12/08/2021",
       "url": null
     },
     {
       "name": "remove-min-max-from-array",
-      "createdAt": "2021-11-28T18:41:41.129Z",
+      "createdAt": "29/11/2021",
       "url": "https://leetcode.com/contest/weekly-contest-269/problems/removing-minimum-and-maximum-from-array/"
     },
     {
       "name": "richest-customer-wealth",
-      "createdAt": "2022-01-31T18:15:04.915Z",
+      "createdAt": "31/01/2022",
       "url": "https://leetcode.com/problems/richest-customer-wealth/"
     },
     {
       "name": "rotate-arrays",
-      "createdAt": "2022-01-30T17:13:27.346Z",
+      "createdAt": "30/01/2022",
       "url": "https://leetcode.com/problems/rotate-array/"
     },
     {
       "name": "running-sum-1D-array",
-      "createdAt": "2022-06-07T18:21:51.645Z",
+      "createdAt": "07/06/2022",
       "url": "https://leetcode.com/problems/running-sum-of-1d-array/"
     },
     {
       "name": "selling-products",
-      "createdAt": "2021-07-13T19:35:12.776Z",
+      "createdAt": "14/07/2021",
       "url": null
     },
     {
       "name": "shortest-contiguous-unsorted-subarray-length",
-      "createdAt": "2022-05-03T17:28:43.640Z",
+      "createdAt": "03/05/2022",
       "url": "https://leetcode.com/problems/shortest-unsorted-continuous-subarray/"
     },
     {
       "name": "shuffle-the-array",
-      "createdAt": "2023-02-06T17:54:17.451Z",
+      "createdAt": "06/02/2023",
       "url": "https://leetcode.com/problems/shuffle-the-array/"
     },
     {
       "name": "single-cycle-check",
-      "createdAt": "2021-06-22T18:24:41.630Z",
+      "createdAt": "22/06/2021",
       "url": null
     },
     {
       "name": "single-number",
-      "createdAt": "2022-02-15T18:27:21.822Z",
+      "createdAt": "15/02/2022",
       "url": "https://leetcode.com/problems/single-number/"
     },
     {
       "name": "smallest-difference",
-      "createdAt": "2021-06-03T18:27:08.236Z",
+      "createdAt": "03/06/2021",
       "url": null
     },
     {
       "name": "smallest-intersecting-element",
-      "createdAt": "2021-07-04T19:18:01.683Z",
+      "createdAt": "05/07/2021",
       "url": null
     },
     {
       "name": "smallest-missing-positive-O(1)",
-      "createdAt": "2021-09-08T13:42:39.001Z",
+      "createdAt": "08/09/2021",
       "url": null
     },
     {
       "name": "sorted-square-array",
-      "createdAt": "2021-05-30T19:33:26.159Z",
+      "createdAt": "31/05/2021",
       "url": null
     },
     {
       "name": "spiral-array",
-      "createdAt": "2021-06-03T18:27:59.305Z",
+      "createdAt": "03/06/2021",
       "url": null
     },
     {
       "name": "sum-of-subarray-mins",
-      "createdAt": "2022-11-25T18:05:35.631Z",
+      "createdAt": "25/11/2022",
       "url": "https://leetcode.com/problems/sum-of-subarray-minimums/"
     },
     {
       "name": "three-number-sort",
-      "createdAt": "2021-08-16T18:15:21.256Z",
+      "createdAt": "16/08/2021",
       "url": null
     },
     {
       "name": "three-sum",
-      "createdAt": "2021-06-03T18:26:48.249Z",
+      "createdAt": "03/06/2021",
       "url": null
     },
     {
       "name": "two-sum",
-      "createdAt": "2021-05-30T19:24:25.997Z",
+      "createdAt": "31/05/2021",
       "url": null
     },
     {
       "name": "validate-subsequences",
-      "createdAt": "2021-05-30T19:24:56.298Z",
+      "createdAt": "31/05/2021",
       "url": null
     },
     {
       "name": "where-the-ball-will-fall",
-      "createdAt": "2022-11-01T18:35:09.749Z",
+      "createdAt": "02/11/2022",
       "url": "https://leetcode.com/problems/where-will-the-ball-fall/"
     },
     {
       "name": "wolf-of-wall-street",
-      "createdAt": "2021-09-03T17:08:58.409Z",
+      "createdAt": "03/09/2021",
       "url": null
     }
   ],
   "BinarySearch": [
     {
       "name": "binary-search",
-      "createdAt": "2021-06-02T08:12:12.354Z",
+      "createdAt": "02/06/2021",
       "url": null
     },
     {
       "name": "capacity-to-ship-in-D-days",
-      "createdAt": "2021-06-18T18:14:34.935Z",
+      "createdAt": "18/06/2021",
       "url": null
     },
     {
       "name": "min-days-to-form-m-boquets",
-      "createdAt": "2021-06-18T18:13:47.780Z",
+      "createdAt": "18/06/2021",
       "url": null
     },
     {
       "name": "plates-between-candle",
-      "createdAt": "2021-11-04T19:48:18.360Z",
+      "createdAt": "05/11/2021",
       "url": null
     },
     {
       "name": "search-2d-matrix",
-      "createdAt": "2022-03-30T18:03:07.271Z",
+      "createdAt": "30/03/2022",
       "url": null
     },
     {
       "name": "search-for-range",
-      "createdAt": "2021-09-15T18:36:13.711Z",
+      "createdAt": "16/09/2021",
       "url": null
     },
     {
       "name": "search-in-sorted-matrix-2",
-      "createdAt": "2021-09-02T04:59:13.554Z",
+      "createdAt": "02/09/2021",
       "url": null
     },
     {
       "name": "search-in-sorted-matrix",
-      "createdAt": "2021-09-01T17:32:34.714Z",
+      "createdAt": "01/09/2021",
       "url": null
     },
     {
       "name": "shifted-binary-search",
-      "createdAt": "2021-09-15T17:57:48.287Z",
+      "createdAt": "15/09/2021",
       "url": null
     },
     {
       "name": "sqrt-calculation",
-      "createdAt": "2021-09-24T19:31:13.528Z",
+      "createdAt": "25/09/2021",
       "url": null
     }
   ],
   "DP": [
     {
       "name": "best-team-with-no-conflict",
-      "createdAt": "2021-11-17T08:18:36.962Z",
+      "createdAt": "17/11/2021",
       "url": "https://leetcode.com/problems/best-team-with-no-conflicts/"
     },
     {
       "name": "house-robber",
-      "createdAt": "2021-12-07T13:55:30.836Z",
+      "createdAt": "07/12/2021",
       "url": "https://leetcode.com/problems/house-robber/"
     },
     {
       "name": "levenshtein-distance",
-      "createdAt": "2021-06-30T18:13:52.105Z",
+      "createdAt": "30/06/2021",
       "url": null
     },
     {
       "name": "longest-common-subsequence-recursive",
-      "createdAt": "2021-11-23T13:39:32.520Z",
+      "createdAt": "23/11/2021",
       "url": null
     },
     {
       "name": "max-sum-increasing-subsequence",
-      "createdAt": "2021-11-16T18:36:01.646Z",
+      "createdAt": "17/11/2021",
       "url": null
     },
     {
       "name": "perfect-squares",
-      "createdAt": "2022-11-22T18:07:28.268Z",
+      "createdAt": "22/11/2022",
       "url": "https://leetcode.com/problems/perfect-squares/"
     },
     {
       "name": "staircase-traversal-1",
-      "createdAt": "2021-08-27T05:34:08.098Z",
+      "createdAt": "27/08/2021",
       "url": null
     }
   ],
   "Graphs": [
     {
       "name": "all-possible-paths-via-bfs",
-      "createdAt": "2021-07-02T17:58:39.660Z",
+      "createdAt": "02/07/2021",
       "url": null
     },
     {
       "name": "breadth-first-search",
-      "createdAt": "2021-06-26T18:24:23.325Z",
+      "createdAt": "26/06/2021",
       "url": null
     },
     {
       "name": "directed-graph-cyclic-check",
-      "createdAt": "2021-06-29T14:13:11.148Z",
+      "createdAt": "29/06/2021",
       "url": null
     },
     {
       "name": "distinct-islands",
-      "createdAt": "2021-09-12T13:38:50.339Z",
+      "createdAt": "12/09/2021",
       "url": null
     },
     {
       "name": "enclosed-island",
-      "createdAt": "2021-07-06T18:14:13.065Z",
+      "createdAt": "06/07/2021",
       "url": null
     },
     {
       "name": "find-all-people-with-secret",
-      "createdAt": "2021-11-29T08:56:39.155Z",
+      "createdAt": "29/11/2021",
       "url": "https://leetcode.com/problems/find-all-people-with-secret/"
     },
     {
       "name": "longest-increasing-path-in-matrix",
-      "createdAt": "2022-05-27T17:59:42.053Z",
+      "createdAt": "27/05/2022",
       "url": "https://leetcode.com/problems/longest-increasing-path-in-a-matrix/"
     },
     {
       "name": "max-area-of-islands",
-      "createdAt": "2022-07-16T16:04:33.328Z",
+      "createdAt": "16/07/2022",
       "url": "https://leetcode.com/problems/max-area-of-island/"
     },
     {
       "name": "min-matrix-passes-optimized",
-      "createdAt": "2021-07-02T16:29:22.323Z",
+      "createdAt": "02/07/2021",
       "url": null
     },
     {
       "name": "min-matrix-passes",
-      "createdAt": "2021-07-01T18:22:59.722Z",
+      "createdAt": "01/07/2021",
       "url": null
     },
     {
       "name": "remove-islands",
-      "createdAt": "2021-06-29T17:45:00.344Z",
+      "createdAt": "29/06/2021",
       "url": null
     },
     {
       "name": "river-sizes",
-      "createdAt": "2021-06-26T18:24:40.436Z",
+      "createdAt": "26/06/2021",
       "url": null
     },
     {
       "name": "topological-sort",
-      "createdAt": "2021-10-09T07:54:02.128Z",
+      "createdAt": "09/10/2021",
       "url": null
     }
   ],
   "Greedy": [
     {
       "name": "boats-to-save-people",
-      "createdAt": "2022-03-24T18:26:44.745Z",
+      "createdAt": "24/03/2022",
       "url": "https://leetcode.com/problems/boats-to-save-people/"
     },
     {
       "name": "buy-and-sell-stock-atmost-2-transactions",
-      "createdAt": "2021-09-12T18:47:14.216Z",
+      "createdAt": "13/09/2021",
       "url": null
     },
     {
       "name": "class-photos",
-      "createdAt": "2021-06-01T18:00:12.205Z",
+      "createdAt": "01/06/2021",
       "url": null
     },
     {
       "name": "contained-intervals",
-      "createdAt": "2021-12-16T18:28:30.429Z",
+      "createdAt": "16/12/2021",
       "url": null
     },
     {
       "name": "container-with-most-water",
-      "createdAt": "2022-04-05T18:10:47.621Z",
+      "createdAt": "05/04/2022",
       "url": "https://leetcode.com/problems/container-with-most-water/"
     },
     {
       "name": "merge-overlapping-intervals",
-      "createdAt": "2021-06-04T18:28:05.721Z",
+      "createdAt": "04/06/2021",
       "url": null
     },
     {
       "name": "minimum-waiting-time",
-      "createdAt": "2021-06-01T18:00:31.083Z",
+      "createdAt": "01/06/2021",
       "url": null
     },
     {
       "name": "my-calendar",
-      "createdAt": "2022-08-19T05:43:05.952Z",
+      "createdAt": "19/08/2022",
       "url": "https://leetcode.com/problems/my-calendar-i/"
     },
     {
       "name": "number-of-weak-characters-in-game",
-      "createdAt": "2022-09-10T18:21:06.981Z",
+      "createdAt": "10/09/2022",
       "url": "https://leetcode.com/problems/the-number-of-weak-characters-in-the-game/"
     },
     {
       "name": "tandem-bicycle",
-      "createdAt": "2021-06-02T08:00:18.111Z",
+      "createdAt": "02/06/2021",
       "url": null
     },
     {
       "name": "tasks-assignments",
-      "createdAt": "2021-07-02T17:59:05.996Z",
+      "createdAt": "02/07/2021",
       "url": null
     },
     {
       "name": "valid-starting-city",
-      "createdAt": "2021-07-14T19:13:53.616Z",
+      "createdAt": "15/07/2021",
       "url": null
     }
   ],
   "HashMaps": [
     {
       "name": "binary-subarray-with-sum-k",
-      "createdAt": "2021-11-30T19:10:23.036Z",
+      "createdAt": "01/12/2021",
       "url": "https://leetcode.com/problems/binary-subarrays-with-sum/"
     },
     {
       "name": "continuous-subarray-sum",
-      "createdAt": "2022-10-26T18:27:17.119Z",
+      "createdAt": "26/10/2022",
       "url": "https://leetcode.com/problems/continuous-subarray-sum/"
     },
     {
       "name": "design-hashmap",
-      "createdAt": "2022-04-22T18:14:42.813Z",
+      "createdAt": "22/04/2022",
       "url": null
     },
     {
       "name": "design-hashset",
-      "createdAt": "2022-04-21T18:04:35.067Z",
+      "createdAt": "21/04/2022",
       "url": "https://leetcode.com/problems/design-hashset/"
     },
     {
       "name": "find-common-characters",
-      "createdAt": "2022-01-01T18:29:17.456Z",
+      "createdAt": "01/01/2022",
       "url": "https://leetcode.com/problems/find-common-characters/"
     },
     {
       "name": "find-the-town-judge",
-      "createdAt": "2023-01-30T15:31:38.435Z",
+      "createdAt": "30/01/2023",
       "url": "https://leetcode.com/problems/find-the-town-judge/"
     },
     {
       "name": "find-three-digits-even-number",
-      "createdAt": "2021-12-05T18:31:31.777Z",
+      "createdAt": "06/12/2021",
       "url": "https://leetcode.com/contest/weekly-contest-270/problems/finding-3-digit-even-numbers/"
     },
     {
       "name": "k-diff-pairs",
-      "createdAt": "2022-02-09T18:12:33.982Z",
+      "createdAt": "09/02/2022",
       "url": "https://leetcode.com/problems/k-diff-pairs-in-an-array/"
     },
     {
       "name": "k-distinct-windows",
-      "createdAt": "2021-10-29T18:25:05.088Z",
+      "createdAt": "29/10/2021",
       "url": null
     },
     {
       "name": "largest-range",
-      "createdAt": "2021-12-06T12:57:54.801Z",
+      "createdAt": "06/12/2021",
       "url": null
     },
     {
       "name": "max-sum-of-pairs-with-equal-sum-of-digits",
-      "createdAt": "2022-07-18T18:01:19.262Z",
+      "createdAt": "18/07/2022",
       "url": "https://leetcode.com/problems/max-sum-of-a-pair-with-equal-sum-of-digits/"
     },
     {
       "name": "minimum-character-for-words",
-      "createdAt": "2021-09-14T17:58:53.731Z",
+      "createdAt": "14/09/2021",
       "url": null
     },
     {
       "name": "remove-duplicates-from-sorted-array-2",
-      "createdAt": "2022-02-06T17:35:55.414Z",
+      "createdAt": "06/02/2022",
       "url": "https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/"
     },
     {
       "name": "subarray-sum-k",
-      "createdAt": "2022-02-10T18:05:22.637Z",
+      "createdAt": "10/02/2022",
       "url": "https://leetcode.com/problems/subarray-sum-equals-k/"
     },
     {
       "name": "sum-of-even-numbers-after-queries",
-      "createdAt": "2022-09-21T17:11:19.230Z",
+      "createdAt": "21/09/2022",
       "url": "https://leetcode.com/problems/sum-of-even-numbers-after-queries/"
     }
   ],
   "Heaps": [
     {
       "name": "min-heap-impl-optimized",
-      "createdAt": "2021-07-20T19:51:09.357Z",
+      "createdAt": "21/07/2021",
       "url": null
     },
     {
       "name": "min-heap-implementation-1",
-      "createdAt": "2021-07-20T15:59:01.255Z",
+      "createdAt": "20/07/2021",
       "url": null
     }
   ],
   "Javascript": [
     {
       "name": "array-prototype-last",
-      "createdAt": "2023-05-21T18:28:52.178Z",
+      "createdAt": "21/05/2023",
       "url": "https://leetcode.com/problems/array-prototype-last/"
     },
     {
       "name": "cache-with-timelimit",
-      "createdAt": "2023-04-24T07:07:58.970Z",
+      "createdAt": "24/04/2023",
       "url": "https://leetcode.com/problems/cache-with-time-limit/"
     },
     {
       "name": "chunk-array",
-      "createdAt": "2023-05-15T06:46:59.463Z",
+      "createdAt": "15/05/2023",
       "url": "https://leetcode.com/problems/chunk-array/"
     },
     {
       "name": "convert-object-to-json-string",
-      "createdAt": "2023-05-15T06:45:45.421Z",
+      "createdAt": "15/05/2023",
       "url": "https://leetcode.com/problems/convert-object-to-json-string/"
     },
     {
       "name": "debounce",
-      "createdAt": "2023-04-25T18:19:19.036Z",
+      "createdAt": "25/04/2023",
       "url": "https://leetcode.com/problems/debounce/"
     },
     {
       "name": "flatten-deepen-nested-array",
-      "createdAt": "2023-04-24T19:41:09.446Z",
+      "createdAt": "25/04/2023",
       "url": "https://leetcode.com/problems/flatten-deeply-nested-array/"
     },
     {
       "name": "function-composition",
-      "createdAt": "2023-05-02T13:25:47.963Z",
+      "createdAt": "02/05/2023",
       "url": "https://leetcode.com/problems/function-composition/"
     },
     {
       "name": "groupby-implementation",
-      "createdAt": "2023-05-02T13:17:46.580Z",
+      "createdAt": "02/05/2023",
       "url": "https://leetcode.com/problems/group-by/"
     },
     {
       "name": "json-deep-equal",
-      "createdAt": "2023-05-12T18:00:12.965Z",
+      "createdAt": "12/05/2023",
       "url": "https://leetcode.com/problems/json-deep-equal/"
     },
     {
       "name": "memoize",
-      "createdAt": "2023-04-24T07:21:03.666Z",
+      "createdAt": "24/04/2023",
       "url": "https://leetcode.com/problems/memoize/"
     },
     {
       "name": "reduce-implementation",
-      "createdAt": "2023-05-02T13:08:44.666Z",
+      "createdAt": "02/05/2023",
       "url": "https://leetcode.com/problems/array-reduce-transformation/"
     }
   ],
   "LinkedList": [
     {
       "name": "adjacent-node-swap-iterative",
-      "createdAt": "2021-11-01T17:55:18.449Z",
+      "createdAt": "01/11/2021",
       "url": null
     },
     {
       "name": "adjacent-node-swap-recursive",
-      "createdAt": "2021-11-01T17:50:22.662Z",
+      "createdAt": "01/11/2021",
       "url": null
     },
     {
       "name": "back-to-front-ll",
-      "createdAt": "2021-08-25T18:11:04.813Z",
+      "createdAt": "25/08/2021",
       "url": null
     },
     {
       "name": "binary-tree-to-linkedlist",
-      "createdAt": "2021-08-11T18:26:27.660Z",
+      "createdAt": "11/08/2021",
       "url": null
     },
     {
       "name": "copy-list-with-random-pointer-1st_approach",
-      "createdAt": "2021-05-26T17:58:45.676Z",
+      "createdAt": "26/05/2021",
       "url": null
     },
     {
       "name": "delete-middle-node-of-linkedlist",
-      "createdAt": "2021-12-05T18:46:05.972Z",
+      "createdAt": "06/12/2021",
       "url": "https://leetcode.com/contest/weekly-contest-270/problems/delete-the-middle-node-of-a-linked-list/"
     },
     {
       "name": "detect-a-cyle",
-      "createdAt": "2021-05-14T07:30:50.193Z",
+      "createdAt": "14/05/2021",
       "url": null
     },
     {
       "name": "doubly-linked-list",
-      "createdAt": "2021-06-12T17:41:27.185Z",
+      "createdAt": "12/06/2021",
       "url": null
     },
     {
       "name": "find-loop",
-      "createdAt": "2021-10-30T18:07:37.004Z",
+      "createdAt": "30/10/2021",
       "url": null
     },
     {
       "name": "flatten-linkedlist",
-      "createdAt": "2021-05-14T15:20:07.685Z",
+      "createdAt": "14/05/2021",
       "url": null
     },
     {
       "name": "insertionsort-list",
-      "createdAt": "2021-12-15T18:23:03.403Z",
+      "createdAt": "15/12/2021",
       "url": "https://leetcode.com/problems/insertion-sort-list"
     },
     {
       "name": "interleaved-linked-list",
-      "createdAt": "2021-08-11T18:17:11.523Z",
+      "createdAt": "11/08/2021",
       "url": null
     },
     {
       "name": "is-palindrome-01",
-      "createdAt": "2021-05-14T12:52:54.742Z",
+      "createdAt": "14/05/2021",
       "url": null
     },
     {
       "name": "is-palindrome-02",
-      "createdAt": "2021-05-14T12:53:25.605Z",
+      "createdAt": "14/05/2021",
       "url": null
     },
     {
       "name": "lru-cache",
-      "createdAt": "2021-05-22T14:27:23.507Z",
+      "createdAt": "22/05/2021",
       "url": null
     },
     {
       "name": "merge-in-between-linkedlist",
-      "createdAt": "2021-05-25T19:35:59.332Z",
+      "createdAt": "26/05/2021",
       "url": null
     },
     {
       "name": "merge-k-sorted-list",
-      "createdAt": "2022-02-05T15:53:54.607Z",
+      "createdAt": "05/02/2022",
       "url": null
     },
     {
       "name": "next-greater-node",
-      "createdAt": "2021-05-25T16:06:52.596Z",
+      "createdAt": "25/05/2021",
       "url": null
     },
     {
       "name": "odd-even-linkedlist",
-      "createdAt": "2021-12-07T14:41:43.822Z",
+      "createdAt": "07/12/2021",
       "url": "https://leetcode.com/problems/odd-even-linked-list"
     },
     {
       "name": "palindome-linked-list",
-      "createdAt": "2021-09-27T17:38:14.747Z",
+      "createdAt": "27/09/2021",
       "url": null
     },
     {
       "name": "palindrome-linkedlist",
-      "createdAt": "2021-11-15T18:28:15.559Z",
+      "createdAt": "15/11/2021",
       "url": null
     },
     {
       "name": "partition-list",
-      "createdAt": "2021-05-25T18:08:32.924Z",
+      "createdAt": "25/05/2021",
       "url": null
     },
     {
       "name": "remove-duplicates-sorted-list",
-      "createdAt": "2021-05-25T17:41:59.515Z",
+      "createdAt": "25/05/2021",
       "url": null
     },
     {
       "name": "remove-kth-node-from-end",
-      "createdAt": "2021-07-16T18:47:27.735Z",
+      "createdAt": "17/07/2021",
       "url": null
     },
     {
       "name": "remove-node-from-end-optimized",
-      "createdAt": "2021-09-23T16:24:31.834Z",
+      "createdAt": "23/09/2021",
       "url": null
     },
     {
       "name": "reverse-in-K-groups",
-      "createdAt": "2021-05-14T09:05:35.114Z",
+      "createdAt": "14/05/2021",
       "url": null
     },
     {
       "name": "reverse-in-groups",
-      "createdAt": "2021-09-10T17:30:55.400Z",
+      "createdAt": "10/09/2021",
       "url": null
     },
     {
       "name": "reverse-inner-linkedlist",
-      "createdAt": "2021-08-25T17:42:21.139Z",
+      "createdAt": "25/08/2021",
       "url": null
     },
     {
       "name": "reverse-linked-list-2",
-      "createdAt": "2021-05-25T18:26:08.765Z",
+      "createdAt": "25/05/2021",
       "url": null
     },
     {
       "name": "reverse-linked-list",
-      "createdAt": "2021-05-14T07:16:48.606Z",
+      "createdAt": "14/05/2021",
       "url": null
     },
     {
       "name": "reverse-nodes-in-even-length-group",
-      "createdAt": "2021-12-02T13:22:23.352Z",
+      "createdAt": "02/12/2021",
       "url": "https://leetcode.com/contest/weekly-contest-267/problems/reverse-nodes-in-even-length-groups/"
     },
     {
       "name": "rotate-linked-list-1",
-      "createdAt": "2021-05-14T15:35:55.481Z",
+      "createdAt": "14/05/2021",
       "url": null
     },
     {
       "name": "rotate-linked-list-2",
-      "createdAt": "2021-05-14T15:53:23.519Z",
+      "createdAt": "14/05/2021",
       "url": null
     },
     {
       "name": "sort-list",
-      "createdAt": "2022-02-25T18:24:52.182Z",
+      "createdAt": "25/02/2022",
       "url": "https://leetcode.com/problems/sort-list/"
     },
     {
       "name": "split-linked-list-in-parts",
-      "createdAt": "2021-05-25T20:36:30.926Z",
+      "createdAt": "26/05/2021",
       "url": null
     },
     {
       "name": "sum-of-linkedlists",
-      "createdAt": "2021-07-26T19:28:02.146Z",
+      "createdAt": "27/07/2021",
       "url": null
     },
     {
       "name": "swap-node-in-pairs",
-      "createdAt": "2022-02-16T18:23:42.657Z",
+      "createdAt": "16/02/2022",
       "url": "https://leetcode.com/problems/swap-nodes-in-pairs/"
     },
     {
       "name": "swapping-nodes-linked-list",
-      "createdAt": "2021-05-25T19:06:46.495Z",
+      "createdAt": "26/05/2021",
       "url": null
     }
   ],
   "Maths": [
     {
       "name": "add-digits",
-      "createdAt": "2022-02-08T18:04:55.984Z",
+      "createdAt": "08/02/2022",
       "url": "https://leetcode.com/problems/add-digits/"
     },
     {
       "name": "bulb-switcher",
-      "createdAt": "2023-04-27T18:15:51.549Z",
+      "createdAt": "27/04/2023",
       "url": "https://leetcode.com/problems/bulb-switcher/"
     },
     {
       "name": "calculate-digit-sum-of-string",
-      "createdAt": "2022-04-17T12:53:38.339Z",
+      "createdAt": "17/04/2022",
       "url": null
     },
     {
       "name": "is-power-of-4",
-      "createdAt": "2022-08-23T17:06:04.740Z",
+      "createdAt": "23/08/2022",
       "url": "https://leetcode.com/problems/power-of-four/"
     },
     {
       "name": "is-power-of-three",
-      "createdAt": "2022-08-24T19:13:57.201Z",
+      "createdAt": "25/08/2022",
       "url": "https://leetcode.com/problems/power-of-three/"
     },
     {
       "name": "missing-number",
-      "createdAt": "2022-05-30T17:59:31.443Z",
+      "createdAt": "30/05/2022",
       "url": "https://leetcode.com/problems/missing-number/"
     },
     {
       "name": "permutation",
-      "createdAt": "2021-07-27T21:44:20.943Z",
+      "createdAt": "28/07/2021",
       "url": null
     },
     {
       "name": "powerset",
-      "createdAt": "2021-08-04T18:20:19.435Z",
+      "createdAt": "04/08/2021",
       "url": null
     },
     {
       "name": "reordered-power-of-2",
-      "createdAt": "2022-08-28T08:48:22.438Z",
+      "createdAt": "28/08/2022",
       "url": "https://leetcode.com/problems/reordered-power-of-2/"
     }
   ],
   "Pointers": [
     {
       "name": "delete-consecutive-repeating-min-cost",
-      "createdAt": "2021-08-09T18:13:59.490Z",
+      "createdAt": "09/08/2021",
       "url": null
     },
     {
       "name": "split-string-with-same-distinct-count",
-      "createdAt": "2021-08-09T18:47:08.102Z",
+      "createdAt": "10/08/2021",
       "url": null
     }
   ],
   "Queues": [
     {
       "name": "implement-queue-using-stacks",
-      "createdAt": "2021-05-15T18:47:17.549Z",
+      "createdAt": "16/05/2021",
       "url": null
     },
     {
       "name": "last-stone-weight",
-      "createdAt": "2023-04-24T20:22:16.692Z",
+      "createdAt": "25/04/2023",
       "url": "https://leetcode.com/problems/last-stone-weight/"
     },
     {
       "name": "sliding-window-maximum",
-      "createdAt": "2021-05-24T08:28:09.577Z",
+      "createdAt": "24/05/2021",
       "url": null
     },
     {
       "name": "time-needed-to-buy-tickets",
-      "createdAt": "2021-12-02T13:53:16.627Z",
+      "createdAt": "02/12/2021",
       "url": "https://leetcode.com/contest/weekly-contest-267/problems/time-needed-to-buy-tickets/"
     }
   ],
   "Recursion": [
     {
       "name": "letter-combination-of-phone-number",
-      "createdAt": "2022-05-09T17:19:28.184Z",
+      "createdAt": "09/05/2022",
       "url": "https://leetcode.com/problems/letter-combinations-of-a-phone-number/"
     },
     {
       "name": "max-subset-sum-no-adjacent",
-      "createdAt": "2021-06-14T18:24:00.471Z",
+      "createdAt": "14/06/2021",
       "url": null
     },
     {
       "name": "max-subset-sum-optimized",
-      "createdAt": "2021-06-15T17:59:19.709Z",
+      "createdAt": "15/06/2021",
       "url": null
     },
     {
       "name": "nth-tribonacci-number",
-      "createdAt": "2023-01-30T15:29:18.487Z",
+      "createdAt": "30/01/2023",
       "url": "https://leetcode.com/problems/n-th-tribonacci-number/"
     },
     {
       "name": "phone-number-combination",
-      "createdAt": "2021-08-11T19:54:28.755Z",
+      "createdAt": "12/08/2021",
       "url": null
     },
     {
       "name": "phone-number-mnemoics",
-      "createdAt": "2021-08-15T15:53:44.621Z",
+      "createdAt": "15/08/2021",
       "url": null
     },
     {
       "name": "triangle",
-      "createdAt": "2022-06-14T09:25:21.883Z",
+      "createdAt": "14/06/2022",
       "url": "https://leetcode.com/problems/triangle/"
     },
     {
       "name": "where-the-ball-will-fall-recursion",
-      "createdAt": "2022-11-01T18:43:55.112Z",
+      "createdAt": "02/11/2022",
       "url": "https://leetcode.com/problems/where-will-the-ball-fall/"
     }
   ],
   "SlidingWindow": [
     {
       "name": "maximum-points-you-can-obtain-from-cards",
-      "createdAt": "2022-06-26T18:26:17.084Z",
+      "createdAt": "26/06/2022",
       "url": "https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/"
     }
   ],
   "Sorting": [
     {
       "name": "bubble-sort",
-      "createdAt": "2021-06-02T10:38:29.562Z",
+      "createdAt": "02/06/2021",
       "url": null
     },
     {
       "name": "continuous-median",
-      "createdAt": "2021-11-03T18:38:44.329Z",
+      "createdAt": "04/11/2021",
       "url": null
     },
     {
       "name": "find-target-index-after-sorting-array",
-      "createdAt": "2021-11-28T17:23:07.213Z",
+      "createdAt": "28/11/2021",
       "url": "https://leetcode.com/contest/weekly-contest-269/problems/find-target-indices-after-sorting-array"
     },
     {
       "name": "largest-number-after-digit-swaps-with-parity",
-      "createdAt": "2022-04-10T18:53:39.589Z",
+      "createdAt": "11/04/2022",
       "url": "https://leetcode.com/contest/weekly-contest-288/problems/largest-number-after-digit-swaps-by-parity/"
     },
     {
       "name": "merge-k-sorted-arrays",
-      "createdAt": "2021-10-08T07:02:23.319Z",
+      "createdAt": "08/10/2021",
       "url": null
     },
     {
       "name": "merge-sort",
-      "createdAt": "2021-10-08T07:02:44.642Z",
+      "createdAt": "08/10/2021",
       "url": null
     }
   ],
   "Stacks": [
     {
       "name": "132-pattern",
-      "createdAt": "2021-05-29T17:47:43.841Z",
+      "createdAt": "29/05/2021",
       "url": null
     },
     {
       "name": "balanced-parenthesis",
-      "createdAt": "2021-08-19T17:56:21.987Z",
+      "createdAt": "19/08/2021",
       "url": null
     },
     {
       "name": "build-array-with-stack-operations",
-      "createdAt": "2021-05-28T10:11:25.454Z",
+      "createdAt": "28/05/2021",
       "url": null
     },
     {
       "name": "daily-temperature",
-      "createdAt": "2022-12-18T17:49:11.657Z",
+      "createdAt": "18/12/2022",
       "url": "https://leetcode.com/problems/daily-temperatures/"
     },
     {
       "name": "decoded-string-at-index",
-      "createdAt": "2021-05-26T17:23:51.088Z",
+      "createdAt": "26/05/2021",
       "url": null
     },
     {
       "name": "implement-stacks-using-2-queues-1",
-      "createdAt": "2021-05-15T15:55:54.696Z",
+      "createdAt": "15/05/2021",
       "url": "https://leetcode.com/problems/implement-stack-using-queues/"
     },
     {
       "name": "max-area-histogram",
-      "createdAt": "2021-05-24T16:07:54.342Z",
+      "createdAt": "24/05/2021",
       "url": null
     },
     {
       "name": "maximum-frequency-stack",
-      "createdAt": "2021-09-12T08:15:38.057Z",
+      "createdAt": "12/09/2021",
       "url": null
     },
     {
       "name": "min-max-stack-construction",
-      "createdAt": "2021-08-16T18:36:19.298Z",
+      "createdAt": "17/08/2021",
       "url": null
     },
     {
       "name": "min-stack-implementation",
-      "createdAt": "2021-05-20T17:48:41.490Z",
+      "createdAt": "20/05/2021",
       "url": null
     },
     {
       "name": "next-greater-element-1",
-      "createdAt": "2021-05-15T19:22:54.220Z",
+      "createdAt": "16/05/2021",
       "url": "https://leetcode.com/problems/next-greater-element-i/"
     },
     {
       "name": "next-greater-element-2",
-      "createdAt": "2021-05-15T19:54:04.024Z",
+      "createdAt": "16/05/2021",
       "url": "https://leetcode.com/problems/next-greater-element-ii/"
     },
     {
       "name": "next-greater-element-circular-array",
-      "createdAt": "2021-08-20T13:40:37.486Z",
+      "createdAt": "20/08/2021",
       "url": null
     },
     {
       "name": "remove-outermost-bracket",
-      "createdAt": "2021-05-27T07:23:03.911Z",
+      "createdAt": "27/05/2021",
       "url": null
     },
     {
       "name": "sort-stack",
-      "createdAt": "2021-09-11T17:26:29.022Z",
+      "createdAt": "11/09/2021",
       "url": null
     },
     {
       "name": "sum-of-subarray-minimum",
-      "createdAt": "2021-05-26T10:45:39.143Z",
+      "createdAt": "26/05/2021",
       "url": null
     },
     {
       "name": "sunset-view-memory-friendly",
-      "createdAt": "2021-09-12T10:19:07.026Z",
+      "createdAt": "12/09/2021",
       "url": null
     },
     {
       "name": "sunset-views-via-stack",
-      "createdAt": "2021-09-12T10:18:39.094Z",
+      "createdAt": "12/09/2021",
       "url": null
     },
     {
       "name": "valid-parenthesis",
-      "createdAt": "2021-05-19T07:12:19.768Z",
+      "createdAt": "19/05/2021",
       "url": null
     },
     {
       "name": "validate-stack-sequences",
-      "createdAt": "2021-05-26T19:12:17.250Z",
+      "createdAt": "27/05/2021",
       "url": null
     }
   ],
   "Strings": [
     {
       "name": "add-spaces",
-      "createdAt": "2021-12-19T17:22:51.303Z",
+      "createdAt": "19/12/2021",
       "url": "https://leetcode.com/contest/weekly-contest-272/problems/adding-spaces-to-a-string/"
     },
     {
       "name": "check-if-two-strings-are-equivalent",
-      "createdAt": "2022-10-25T10:36:28.972Z",
+      "createdAt": "25/10/2022",
       "url": "https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/"
     },
     {
       "name": "common-word",
-      "createdAt": "2021-10-18T18:28:28.653Z",
+      "createdAt": "18/10/2021",
       "url": null
     },
     {
       "name": "consecutive-characters",
-      "createdAt": "2021-12-13T17:09:48.115Z",
+      "createdAt": "13/12/2021",
       "url": "https://leetcode.com/problems/consecutive-characters/"
     },
     {
       "name": "count-vowel-substrings",
-      "createdAt": "2021-12-04T08:54:12.197Z",
+      "createdAt": "04/12/2021",
       "url": null
     },
     {
       "name": "decode-the-slanted-ciphertext",
-      "createdAt": "2021-12-03T12:54:57.167Z",
+      "createdAt": "03/12/2021",
       "url": null
     },
     {
       "name": "delete-columns-to-sort",
-      "createdAt": "2023-01-03T18:19:10.751Z",
+      "createdAt": "03/01/2023",
       "url": "https://leetcode.com/problems/delete-columns-to-make-sorted/"
     },
     {
       "name": "determine-string-halves-same",
-      "createdAt": "2022-12-01T18:28:18.963Z",
+      "createdAt": "01/12/2022",
       "url": "https://leetcode.com/problems/determine-if-string-halves-are-alike/"
     },
     {
       "name": "encode-and-decode-tiny-url",
-      "createdAt": "2022-04-23T17:39:41.805Z",
+      "createdAt": "23/04/2022",
       "url": "https://leetcode.com/problems/encode-and-decode-tinyurl/"
     },
     {
       "name": "find-all-anagrams-string",
-      "createdAt": "2022-02-02T18:30:31.480Z",
+      "createdAt": "03/02/2022",
       "url": "https://leetcode.com/problems/find-all-anagrams-in-a-string/"
     },
     {
       "name": "find-the-difference",
-      "createdAt": "2022-02-07T18:10:23.923Z",
+      "createdAt": "07/02/2022",
       "url": "https://leetcode.com/problems/find-the-difference/"
     },
     {
       "name": "find-the-index-of-the-first-occurrence-in-a-string",
-      "createdAt": "2023-03-03T12:22:32.441Z",
+      "createdAt": "03/03/2023",
       "url": "https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/"
     },
     {
       "name": "first-non-repeating-char",
-      "createdAt": "2021-06-02T15:43:35.235Z",
+      "createdAt": "02/06/2021",
       "url": null
     },
     {
       "name": "first-palindrome-string",
-      "createdAt": "2021-12-19T17:17:41.790Z",
+      "createdAt": "19/12/2021",
       "url": "https://leetcode.com/contest/weekly-contest-272/problems/find-first-palindromic-string-in-the-array/"
     },
     {
       "name": "group-anagrams",
-      "createdAt": "2021-08-22T17:02:55.961Z",
+      "createdAt": "22/08/2021",
       "url": "https://leetcode.com/problems/group-anagrams/"
     },
     {
       "name": "is-subsequence",
-      "createdAt": "2022-03-02T18:24:41.432Z",
+      "createdAt": "02/03/2022",
       "url": null
     },
     {
       "name": "isomorphic-strings",
-      "createdAt": "2021-07-12T18:53:06.977Z",
+      "createdAt": "13/07/2021",
       "url": null
     },
     {
       "name": "largest-anagrams-group",
-      "createdAt": "2021-07-21T18:33:39.698Z",
+      "createdAt": "22/07/2021",
       "url": null
     },
     {
       "name": "license-key-formatting",
-      "createdAt": "2021-12-18T17:53:30.441Z",
+      "createdAt": "18/12/2021",
       "url": "https://leetcode.com/problems/license-key-formatting/"
     },
     {
       "name": "longest-anagram-substring",
-      "createdAt": "2021-07-29T18:23:55.661Z",
+      "createdAt": "29/07/2021",
       "url": null
     },
     {
       "name": "longest-palindrome-by-concatenating-two-letter-words",
-      "createdAt": "2022-11-03T18:27:07.794Z",
+      "createdAt": "03/11/2022",
       "url": null
     },
     {
       "name": "longest-palindromic-substring",
-      "createdAt": "2021-09-12T10:54:51.020Z",
+      "createdAt": "12/09/2021",
       "url": null
     },
     {
       "name": "max-length-of-concatenated-unique-string",
-      "createdAt": "2022-10-24T13:56:03.098Z",
+      "createdAt": "24/10/2022",
       "url": "https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/"
     },
     {
       "name": "max-vowels-in-substring",
-      "createdAt": "2023-05-05T17:52:23.754Z",
+      "createdAt": "05/05/2023",
       "url": "https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/"
     },
     {
       "name": "maximum-product-of-word-length",
-      "createdAt": "2022-05-29T18:09:37.543Z",
+      "createdAt": "29/05/2022",
       "url": "https://leetcode.com/problems/maximum-product-of-word-lengths/"
     },
     {
       "name": "min-deletions-to-make-characters-unique",
-      "createdAt": "2022-06-28T16:57:41.048Z",
+      "createdAt": "28/06/2022",
       "url": "https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/"
     },
     {
       "name": "minimum-time-to-type-word",
-      "createdAt": "2021-09-08T13:41:22.764Z",
+      "createdAt": "08/09/2021",
       "url": null
     },
     {
       "name": "num-lines-to-write-string",
-      "createdAt": "2021-11-30T20:18:17.051Z",
+      "createdAt": "01/12/2021",
       "url": "https://leetcode.com/problems/number-of-lines-to-write-string/"
     },
     {
       "name": "num-matching-subsequence",
-      "createdAt": "2022-07-21T18:26:02.167Z",
+      "createdAt": "21/07/2022",
       "url": "https://leetcode.com/problems/number-of-matching-subsequences/"
     },
     {
       "name": "orderly-queues",
-      "createdAt": "2022-11-06T18:27:06.212Z",
+      "createdAt": "06/11/2022",
       "url": "https://leetcode.com/problems/orderly-queue/"
     },
     {
       "name": "permutation-in-string",
-      "createdAt": "2022-02-11T18:21:40.632Z",
+      "createdAt": "11/02/2022",
       "url": "https://leetcode.com/problems/permutation-in-string/"
     },
     {
       "name": "ransom-note",
-      "createdAt": "2022-08-30T18:26:05.726Z",
+      "createdAt": "30/08/2022",
       "url": "https://leetcode.com/problems/ransom-note/"
     },
     {
       "name": "remove-k-adjacent-duplicates",
-      "createdAt": "2022-05-06T17:52:55.708Z",
+      "createdAt": "06/05/2022",
       "url": "https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/"
     },
     {
       "name": "reverse-the-vowels",
-      "createdAt": "2021-11-30T20:26:03.675Z",
+      "createdAt": "01/12/2021",
       "url": "https://leetcode.com/problems/reverse-vowels-of-a-string"
     },
     {
       "name": "reverse-word-in-substring",
-      "createdAt": "2022-11-22T18:08:39.495Z",
+      "createdAt": "22/11/2022",
       "url": null
     },
     {
       "name": "robot-return-to-origin",
-      "createdAt": "2021-12-30T18:06:04.125Z",
+      "createdAt": "30/12/2021",
       "url": "https://leetcode.com/problems/robot-return-to-origin/"
     },
     {
       "name": "rotation-groups",
-      "createdAt": "2021-07-12T18:29:12.124Z",
+      "createdAt": "12/07/2021",
       "url": null
     },
     {
       "name": "run-length-encoding-2",
-      "createdAt": "2021-09-04T18:13:08.746Z",
+      "createdAt": "04/09/2021",
       "url": null
     },
     {
       "name": "run-length-encoding",
-      "createdAt": "2021-06-02T15:11:32.419Z",
+      "createdAt": "02/06/2021",
       "url": null
     },
     {
       "name": "search-suggestion-system",
-      "createdAt": "2022-06-20T18:29:07.848Z",
+      "createdAt": "20/06/2022",
       "url": "https://leetcode.com/problems/search-suggestions-system/"
     },
     {
       "name": "sentence-reversal",
-      "createdAt": "2021-08-31T17:20:49.686Z",
+      "createdAt": "31/08/2021",
       "url": null
     },
     {
       "name": "simplify-paths",
-      "createdAt": "2022-03-14T17:52:43.232Z",
+      "createdAt": "14/03/2022",
       "url": "https://leetcode.com/problems/simplify-path/"
     },
     {
       "name": "sorting-mail",
-      "createdAt": "2022-03-11T18:18:13.830Z",
+      "createdAt": "11/03/2022",
       "url": null
     },
     {
       "name": "stream-of-characters",
-      "createdAt": "2021-12-08T19:03:51.352Z",
+      "createdAt": "09/12/2021",
       "url": "https://leetcode.com/problems/stream-of-characters/"
     },
     {
       "name": "substrings-of-size-3-distinct-chars",
-      "createdAt": "2021-12-27T18:27:38.499Z",
+      "createdAt": "27/12/2021",
       "url": "https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/"
     },
     {
       "name": "summary-ranges",
-      "createdAt": "2022-02-28T18:28:53.834Z",
+      "createdAt": "28/02/2022",
       "url": "https://leetcode.com/problems/summary-ranges/"
     },
     {
       "name": "top-k-frequent-words",
-      "createdAt": "2022-10-19T13:28:52.273Z",
+      "createdAt": "19/10/2022",
       "url": "https://leetcode.com/problems/top-k-frequent-words/"
     },
     {
       "name": "word-pattern",
-      "createdAt": "2022-01-27T18:52:41.961Z",
+      "createdAt": "28/01/2022",
       "url": "https://leetcode.com/problems/word-pattern/"
     },
     {
       "name": "word-search",
-      "createdAt": "2022-11-24T18:26:01.034Z",
+      "createdAt": "24/11/2022",
       "url": "https://leetcode.com/problems/word-search/"
     },
     {
       "name": "word-subsets",
-      "createdAt": "2022-07-30T18:26:05.630Z",
+      "createdAt": "30/07/2022",
       "url": "https://leetcode.com/problems/word-subsets/"
     }
   ],
   "Trees": [
     {
       "name": "all-elements-in-two-bst",
-      "createdAt": "2022-01-28T19:11:42.385Z",
+      "createdAt": "29/01/2022",
       "url": null
     },
     {
       "name": "average-of-levels-of-tree",
-      "createdAt": "2022-09-04T18:02:14.711Z",
+      "createdAt": "04/09/2022",
       "url": "https://leetcode.com/problems/average-of-levels-in-binary-tree/"
     },
     {
       "name": "balanced-binary-tree",
-      "createdAt": "2021-06-14T18:10:48.239Z",
+      "createdAt": "14/06/2021",
       "url": null
     },
     {
       "name": "binary-tree-diameter",
-      "createdAt": "2021-06-10T18:15:32.348Z",
+      "createdAt": "10/06/2021",
       "url": null
     },
     {
       "name": "binary-tree-successor-1",
-      "createdAt": "2021-06-10T18:16:03.771Z",
+      "createdAt": "10/06/2021",
       "url": null
     },
     {
       "name": "binary-tree-successor-2",
-      "createdAt": "2021-06-10T18:45:41.924Z",
+      "createdAt": "11/06/2021",
       "url": null
     },
     {
       "name": "binary-tree-tilt",
-      "createdAt": "2021-12-11T19:06:10.196Z",
+      "createdAt": "12/12/2021",
       "url": "https://leetcode.com/problems/binary-tree-tilt"
     },
     {
       "name": "branch-sums",
-      "createdAt": "2021-05-31T18:24:20.329Z",
+      "createdAt": "31/05/2021",
       "url": null
     },
     {
       "name": "bst-iterator",
-      "createdAt": "2022-04-20T17:33:06.989Z",
+      "createdAt": "20/04/2022",
       "url": "https://leetcode.com/problems/binary-search-tree-iterator/"
     },
     {
       "name": "bst-traversal",
-      "createdAt": "2021-06-08T18:15:31.297Z",
+      "createdAt": "08/06/2021",
       "url": null
     },
     {
       "name": "closest-value-bst",
-      "createdAt": "2021-05-31T18:04:11.492Z",
+      "createdAt": "31/05/2021",
       "url": null
     },
     {
       "name": "construct-bst",
-      "createdAt": "2021-06-08T18:14:59.409Z",
+      "createdAt": "08/06/2021",
       "url": null
     },
     {
       "name": "construct-tree-from-preorder-inorder",
-      "createdAt": "2021-06-24T17:50:42.794Z",
+      "createdAt": "24/06/2021",
       "url": null
     },
     {
       "name": "count-good-nodes-in-binary-tree",
-      "createdAt": "2022-09-01T18:28:13.193Z",
+      "createdAt": "01/09/2022",
       "url": "https://leetcode.com/problems/count-good-nodes-in-binary-tree/"
     },
     {
       "name": "count-right-smaller-than-1",
-      "createdAt": "2021-10-31T05:54:59.265Z",
+      "createdAt": "31/10/2021",
       "url": null
     },
     {
       "name": "count-right-smaller-than-2(clean)",
-      "createdAt": "2021-10-31T06:16:13.759Z",
+      "createdAt": "31/10/2021",
       "url": null
     },
     {
       "name": "deepest-sum-leafes",
-      "createdAt": "2022-05-16T18:13:29.066Z",
+      "createdAt": "16/05/2022",
       "url": "https://leetcode.com/problems/deepest-leaves-sum/"
     },
     {
       "name": "depth-first-search",
-      "createdAt": "2021-06-01T18:01:06.506Z",
+      "createdAt": "01/06/2021",
       "url": null
     },
     {
       "name": "enlarge-bst",
-      "createdAt": "2021-07-04T19:17:42.830Z",
+      "createdAt": "05/07/2021",
       "url": null
     },
     {
       "name": "house-robbers-iii",
-      "createdAt": "2021-12-10T19:07:41.353Z",
+      "createdAt": "11/12/2021",
       "url": "https://leetcode.com/problems/house-robber-iii/"
     },
     {
       "name": "increasing-order-search-tree",
-      "createdAt": "2022-04-18T18:02:38.017Z",
+      "createdAt": "18/04/2022",
       "url": "https://leetcode.com/problems/increasing-order-search-tree/"
     },
     {
       "name": "inorder-successor-iterative",
-      "createdAt": "2021-08-30T12:11:17.538Z",
+      "createdAt": "30/08/2021",
       "url": null
     },
     {
       "name": "inorder-successor-recursive",
-      "createdAt": "2021-08-30T12:07:38.122Z",
+      "createdAt": "30/08/2021",
       "url": null
     },
     {
       "name": "invert-binary-tree",
-      "createdAt": "2021-06-10T18:15:06.543Z",
+      "createdAt": "10/06/2021",
       "url": null
     },
     {
       "name": "is-subtree",
-      "createdAt": "2021-07-10T18:15:10.586Z",
+      "createdAt": "10/07/2021",
       "url": null
     },
     {
       "name": "kth-largest-value-bst",
-      "createdAt": "2021-06-08T18:16:12.294Z",
+      "createdAt": "08/06/2021",
       "url": null
     },
     {
       "name": "level-order-alternating",
-      "createdAt": "2021-06-11T15:51:24.059Z",
+      "createdAt": "11/06/2021",
       "url": null
     },
     {
       "name": "level-order-traversal",
-      "createdAt": "2022-07-13T18:34:12.603Z",
+      "createdAt": "14/07/2022",
       "url": "https://leetcode.com/problems/binary-tree-level-order-traversal/"
     },
     {
       "name": "list-to-bst",
-      "createdAt": "2021-08-30T17:23:50.298Z",
+      "createdAt": "30/08/2021",
       "url": null
     },
     {
       "name": "maximum-product-of-binary-splitted-tree",
-      "createdAt": "2022-12-10T20:37:29.176Z",
+      "createdAt": "11/12/2022",
       "url": "https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/"
     },
     {
       "name": "merge-binary-tree-optimized",
-      "createdAt": "2021-08-15T15:54:16.387Z",
+      "createdAt": "15/08/2021",
       "url": null
     },
     {
       "name": "merge-binary-tree",
-      "createdAt": "2021-08-14T17:18:50.206Z",
+      "createdAt": "14/08/2021",
       "url": null
     },
     {
       "name": "min-height-bst",
-      "createdAt": "2021-06-08T18:15:50.237Z",
+      "createdAt": "08/06/2021",
       "url": null
     },
     {
       "name": "next-node-right-same-level",
-      "createdAt": "2021-07-11T18:07:54.623Z",
+      "createdAt": "11/07/2021",
       "url": null
     },
     {
       "name": "preorder-bst",
-      "createdAt": "2021-06-08T18:17:23.660Z",
+      "createdAt": "08/06/2021",
       "url": null
     },
     {
       "name": "range-sum-bst",
-      "createdAt": "2021-12-14T18:25:38.593Z",
+      "createdAt": "14/12/2021",
       "url": null
     },
     {
       "name": "recover-bst",
-      "createdAt": "2022-04-19T18:28:23.052Z",
+      "createdAt": "19/04/2022",
       "url": "https://leetcode.com/problems/recover-binary-search-tree/"
     },
     {
       "name": "same-tree",
-      "createdAt": "2023-01-10T16:13:20.944Z",
+      "createdAt": "10/01/2023",
       "url": "https://leetcode.com/problems/same-tree/"
     },
     {
       "name": "subtree-with-max-average",
-      "createdAt": "2021-07-04T19:17:26.857Z",
+      "createdAt": "05/07/2021",
       "url": null
     },
     {
       "name": "sum-of-depths",
-      "createdAt": "2021-06-01T06:07:13.895Z",
+      "createdAt": "01/06/2021",
       "url": null
     },
     {
       "name": "two-sum-in-bst",
-      "createdAt": "2022-10-09T13:09:40.851Z",
+      "createdAt": "09/10/2022",
       "url": "https://leetcode.com/problems/two-sum-iv-input-is-a-bst/"
     },
     {
       "name": "valid-bst",
-      "createdAt": "2021-06-04T18:26:45.604Z",
+      "createdAt": "04/06/2021",
       "url": null
     },
     {
       "name": "youngest-common-ancestor",
-      "createdAt": "2021-06-28T18:20:10.570Z",
+      "createdAt": "28/06/2021",
       "url": null
     }
   ],
   "Tries": [
     {
       "name": "design-add-and-search-words-data-structure",
-      "createdAt": "2023-03-19T18:29:00.055Z",
+      "createdAt": "19/03/2023",
       "url": "https://leetcode.com/problems/design-add-and-search-words-data-structure/"
     },
     {
       "name": "suffix-tries",
-      "createdAt": "2022-06-20T20:19:18.623Z",
+      "createdAt": "21/06/2022",
       "url": null
     }
   ],
   "UnionFind": [
     {
       "name": "account-merge",
-      "createdAt": "2022-04-28T18:23:00.972Z",
+      "createdAt": "28/04/2022",
       "url": "https://leetcode.com/problems/accounts-merge/"
     },
     {
       "name": "satisfiability-of-equations",
-      "createdAt": "2022-10-02T13:29:59.128Z",
+      "createdAt": "02/10/2022",
       "url": "https://leetcode.com/problems/satisfiability-of-equality-equations/"
     }
   ]
