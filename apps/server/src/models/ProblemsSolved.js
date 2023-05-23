@@ -22,7 +22,7 @@ class ProblemsSolved extends Model {
           maxLength: 1000,
         },
         solution_created_at: {
-          type: 'date-time',
+          type: 'string',
         },
       },
     };
