@@ -8,6 +8,7 @@ const {
   getCategoryVsSolutionMap,
 } = require('../utils/files');
 const parseURLFromFile = require('./parseURL');
+const { convertIsoToDate } = require('../utils/format');
 
 /**
  *
@@ -28,7 +29,7 @@ const prepareSolutionInfoObject = async (
       const solutionStats = await fs.lstat(solutionPath);
       const solutionInfo = {
         name: solutionName.split('.')[0],
-        createdAt: solutionStats.birthtime,
+        createdAt: convertIsoToDate(solutionStats.birthtime),
         url,
       };
       solutionList.push(solutionInfo);
