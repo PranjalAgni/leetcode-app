@@ -2,13 +2,20 @@ import { useQuery } from 'react-query';
 import Layout from '../components/Layout/Layout';
 import Table from '../components/Table/Table';
 import { fetchProblems } from '../services/problems';
+import { sortByDate } from '../utils/date';
 
 export default function Dashboard() {
   const problems = useQuery('problems', fetchProblems);
   console.log('React query ', problems);
   if (problems.isLoading) return <button aria-busy="true">Loading ⏰</button>;
-  const columns = Object.keys(problems.data.data[0]).map((column) =>
-    column.toUpperCase()
+  if (!problems.data.data.length) {
+    return <h2>{'Go and scrape first for problems'}</h2>;
+  }
+
+  const solvedLeetCodeProblemsInSortedFashion = sortByDate(problems.data.data);
+
+  const columns = Object.keys(solvedLeetCodeProblemsInSortedFashion[0]).map(
+    (column) => column.toUpperCase()
   );
   return (
     <Layout>
