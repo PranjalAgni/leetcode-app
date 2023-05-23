@@ -1,9 +1,14 @@
 import styles from './Table.module.css';
 
-type TableProps = {
-  data: { name: string; url: string; solvedAt: string }[];
+export interface TableData {
+  name: string;
+  url: string;
+  solvedAt: string;
+}
+export interface TableProps {
+  data: Array<TableData>;
   columns: string[];
-};
+}
 
 export default function Table({ data, columns }: TableProps) {
   return (
@@ -20,8 +25,6 @@ export default function Table({ data, columns }: TableProps) {
         </thead>
         <tbody>
           {data.map((row, idx) => {
-            const date = new Date(row.solvedAt);
-            const formattedSolvedAtDate = `${date.getDate()}/${date.getMonth()}/${date.getFullYear()}`;
             return (
               <tr key={idx}>
                 <td>{row.name}</td>
@@ -32,7 +35,7 @@ export default function Table({ data, columns }: TableProps) {
                     </a>
                   }
                 </td>
-                <td>{formattedSolvedAtDate}</td>
+                <td>{row.solvedAt}</td>
               </tr>
             );
           })}
