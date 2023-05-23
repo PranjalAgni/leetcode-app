@@ -1,6 +1,11 @@
 {
   "Adhoc": [
     {
+      "name": "average-salary-removing-min-and-max",
+      "createdAt": "2023-05-01T18:18:54.045Z",
+      "url": "https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/"
+    },
+    {
       "name": "average-value-of-even-numbers-that-are-divisible-by-3",
       "createdAt": "2022-10-30T17:46:26.849Z",
       "url": "https://leetcode.com/contest/weekly-contest-317/problems/average-value-of-even-numbers-that-are-divisible-by-three/"
@@ -64,6 +69,11 @@
       "name": "number-of-valid-clock-times",
       "createdAt": "2022-10-28T18:40:16.412Z",
       "url": "https://leetcode.com/problems/number-of-valid-clock-times/"
+    },
+    {
+      "name": "sign-of-product-of-array",
+      "createdAt": "2023-05-02T11:04:42.446Z",
+      "url": "https://leetcode.com/problems/sign-of-the-product-of-an-array/"
     },
     {
       "name": "subsequence-of-length-k-max-sum",
@@ -228,6 +238,11 @@
       "url": null
     },
     {
+      "name": "number-of-zero-filled-subarrays",
+      "createdAt": "2023-03-21T18:26:35.339Z",
+      "url": "https://leetcode.com/problems/number-of-zero-filled-subarrays/"
+    },
+    {
       "name": "possible-bipartition",
       "createdAt": "2022-12-21T18:15:35.055Z",
       "url": "https://leetcode.com/problems/possible-bipartition/"
@@ -281,6 +296,11 @@
       "name": "shortest-contiguous-unsorted-subarray-length",
       "createdAt": "2022-05-03T17:28:43.640Z",
       "url": "https://leetcode.com/problems/shortest-unsorted-continuous-subarray/"
+    },
+    {
+      "name": "shuffle-the-array",
+      "createdAt": "2023-02-06T17:54:17.451Z",
+      "url": "https://leetcode.com/problems/shuffle-the-array/"
     },
     {
       "name": "single-cycle-check",
@@ -598,6 +618,11 @@
       "url": "https://leetcode.com/problems/find-common-characters/"
     },
     {
+      "name": "find-the-town-judge",
+      "createdAt": "2023-01-30T15:31:38.435Z",
+      "url": "https://leetcode.com/problems/find-the-town-judge/"
+    },
+    {
       "name": "find-three-digits-even-number",
       "createdAt": "2021-12-05T18:31:31.777Z",
       "url": "https://leetcode.com/contest/weekly-contest-270/problems/finding-3-digit-even-numbers/"
@@ -653,6 +678,63 @@
       "name": "min-heap-implementation-1",
       "createdAt": "2021-07-20T15:59:01.255Z",
       "url": null
+    }
+  ],
+  "Javascript": [
+    {
+      "name": "array-prototype-last",
+      "createdAt": "2023-05-21T18:28:52.178Z",
+      "url": "https://leetcode.com/problems/array-prototype-last/"
+    },
+    {
+      "name": "cache-with-timelimit",
+      "createdAt": "2023-04-24T07:07:58.970Z",
+      "url": "https://leetcode.com/problems/cache-with-time-limit/"
+    },
+    {
+      "name": "chunk-array",
+      "createdAt": "2023-05-15T06:46:59.463Z",
+      "url": "https://leetcode.com/problems/chunk-array/"
+    },
+    {
+      "name": "convert-object-to-json-string",
+      "createdAt": "2023-05-15T06:45:45.421Z",
+      "url": "https://leetcode.com/problems/convert-object-to-json-string/"
+    },
+    {
+      "name": "debounce",
+      "createdAt": "2023-04-25T18:19:19.036Z",
+      "url": "https://leetcode.com/problems/debounce/"
+    },
+    {
+      "name": "flatten-deepen-nested-array",
+      "createdAt": "2023-04-24T19:41:09.446Z",
+      "url": "https://leetcode.com/problems/flatten-deeply-nested-array/"
+    },
+    {
+      "name": "function-composition",
+      "createdAt": "2023-05-02T13:25:47.963Z",
+      "url": "https://leetcode.com/problems/function-composition/"
+    },
+    {
+      "name": "groupby-implementation",
+      "createdAt": "2023-05-02T13:17:46.580Z",
+      "url": "https://leetcode.com/problems/group-by/"
+    },
+    {
+      "name": "json-deep-equal",
+      "createdAt": "2023-05-12T18:00:12.965Z",
+      "url": "https://leetcode.com/problems/json-deep-equal/"
+    },
+    {
+      "name": "memoize",
+      "createdAt": "2023-04-24T07:21:03.666Z",
+      "url": "https://leetcode.com/problems/memoize/"
+    },
+    {
+      "name": "reduce-implementation",
+      "createdAt": "2023-05-02T13:08:44.666Z",
+      "url": "https://leetcode.com/problems/array-reduce-transformation/"
     }
   ],
   "LinkedList": [
@@ -854,6 +936,11 @@
       "url": "https://leetcode.com/problems/add-digits/"
     },
     {
+      "name": "bulb-switcher",
+      "createdAt": "2023-04-27T18:15:51.549Z",
+      "url": "https://leetcode.com/problems/bulb-switcher/"
+    },
+    {
       "name": "calculate-digit-sum-of-string",
       "createdAt": "2022-04-17T12:53:38.339Z",
       "url": null
@@ -908,6 +995,11 @@
       "url": null
     },
     {
+      "name": "last-stone-weight",
+      "createdAt": "2023-04-24T20:22:16.692Z",
+      "url": "https://leetcode.com/problems/last-stone-weight/"
+    },
+    {
       "name": "sliding-window-maximum",
       "createdAt": "2021-05-24T08:28:09.577Z",
       "url": null
@@ -933,6 +1025,11 @@
       "name": "max-subset-sum-optimized",
       "createdAt": "2021-06-15T17:59:19.709Z",
       "url": null
+    },
+    {
+      "name": "nth-tribonacci-number",
+      "createdAt": "2023-01-30T15:29:18.487Z",
+      "url": "https://leetcode.com/problems/n-th-tribonacci-number/"
     },
     {
       "name": "phone-number-combination",
@@ -1128,6 +1225,11 @@
       "url": null
     },
     {
+      "name": "delete-columns-to-sort",
+      "createdAt": "2023-01-03T18:19:10.751Z",
+      "url": "https://leetcode.com/problems/delete-columns-to-make-sorted/"
+    },
+    {
       "name": "determine-string-halves-same",
       "createdAt": "2022-12-01T18:28:18.963Z",
       "url": "https://leetcode.com/problems/determine-if-string-halves-are-alike/"
@@ -1146,6 +1248,11 @@
       "name": "find-the-difference",
       "createdAt": "2022-02-07T18:10:23.923Z",
       "url": "https://leetcode.com/problems/find-the-difference/"
+    },
+    {
+      "name": "find-the-index-of-the-first-occurrence-in-a-string",
+      "createdAt": "2023-03-03T12:22:32.441Z",
+      "url": "https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/"
     },
     {
       "name": "first-non-repeating-char",
@@ -1201,6 +1308,11 @@
       "name": "max-length-of-concatenated-unique-string",
       "createdAt": "2022-10-24T13:56:03.098Z",
       "url": "https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/"
+    },
+    {
+      "name": "max-vowels-in-substring",
+      "createdAt": "2023-05-05T17:52:23.754Z",
+      "url": "https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/"
     },
     {
       "name": "maximum-product-of-word-length",
@@ -1306,11 +1418,6 @@
       "name": "substrings-of-size-3-distinct-chars",
       "createdAt": "2021-12-27T18:27:38.499Z",
       "url": "https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/"
-    },
-    {
-      "name": "suffix-tries",
-      "createdAt": "2022-06-20T20:19:18.623Z",
-      "url": null
     },
     {
       "name": "summary-ranges",
@@ -1525,6 +1632,11 @@
       "url": "https://leetcode.com/problems/recover-binary-search-tree/"
     },
     {
+      "name": "same-tree",
+      "createdAt": "2023-01-10T16:13:20.944Z",
+      "url": "https://leetcode.com/problems/same-tree/"
+    },
+    {
       "name": "subtree-with-max-average",
       "createdAt": "2021-07-04T19:17:26.857Z",
       "url": null
@@ -1547,6 +1659,18 @@
     {
       "name": "youngest-common-ancestor",
       "createdAt": "2021-06-28T18:20:10.570Z",
+      "url": null
+    }
+  ],
+  "Tries": [
+    {
+      "name": "design-add-and-search-words-data-structure",
+      "createdAt": "2023-03-19T18:29:00.055Z",
+      "url": "https://leetcode.com/problems/design-add-and-search-words-data-structure/"
+    },
+    {
+      "name": "suffix-tries",
+      "createdAt": "2022-06-20T20:19:18.623Z",
       "url": null
     }
   ],
