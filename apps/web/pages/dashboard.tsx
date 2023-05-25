@@ -21,7 +21,7 @@ export default function Dashboard() {
     const [day, month, year] = leetcodeProblem.solvedAt.split('/');
     const solvedAtMs = new Date(`${month}/${day}/${year}`).getTime();
     const solvedAgo = timeago.format(solvedAtMs);
-    console.log(`${leetcodeProblem.solvedAt} ---> ${solvedAgo}`);
+    console.log(`Solved at ${leetcodeProblem.solvedAt} ---> recently solved ${solvedAgo}`);
   });
 
   const columns = Object.keys(solvedLeetCodeProblemsInSortedFashion[0]).map(
